@@ -19441,3 +19441,18 @@
 2026-01-11 12:09:55  * Restarting with stat
 2026-01-11 12:09:56  * Debugger is active!
 2026-01-11 12:09:56  * Debugger PIN: 102-093-635
+2026-01-11 12:10:04 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-11 12:10:04 [33mPress CTRL+C to quit[0m
+2026-01-11 12:10:04  * Restarting with stat
+2026-01-11 12:10:05  * Debugger is active!
+2026-01-11 12:10:05  * Debugger PIN: 102-093-635
+2026-01-11 12:11:24 127.0.0.1 127.0.0.1:5000 "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-11 12:11:24 127.0.0.1 - - [11/Jan/2026 12:11:24] "GET / HTTP/1.1" 200 -
+2026-01-11 12:11:24 127.0.0.1 127.0.0.1:5000 "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-11 12:11:24 127.0.0.1 - - [11/Jan/2026 12:11:24] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2026-01-11 12:11:24 127.0.0.1 127.0.0.1:5000 "GET /static/favicon.png?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-11 12:11:24 127.0.0.1 - - [11/Jan/2026 12:11:24] "GET /static/favicon.png HTTP/1.1" 200 -
+2026-01-11 12:11:39 127.0.0.1 127.0.0.1:5000 "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-11 12:11:39 127.0.0.1 - - [11/Jan/2026 12:11:39] "POST / HTTP/1.1" 200 -
+2026-01-11 12:11:39 127.0.0.1 - - [11/Jan/2026 12:11:39] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
