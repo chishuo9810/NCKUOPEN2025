@@ -1,0 +1,638 @@
+2025-07-03 11:53:49 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:443
+ * Running on https://140.116.82.166:443
+2025-07-03 11:53:49 [33mPress CTRL+C to quit[0m
+2025-07-03 11:53:59 36.237.170.11 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 11:53:59 36.237.170.11 - - [03/Jul/2025 11:53:59] "GET / HTTP/1.1" 200 -
+2025-07-03 11:53:59 36.237.170.11 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 11:53:59 36.237.170.11 - - [03/Jul/2025 11:53:59] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 11:54:03 36.237.170.11 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 11:54:03 36.237.170.11 - - [03/Jul/2025 11:54:03] "POST / HTTP/1.1" 200 -
+2025-07-03 11:54:03 36.237.170.11 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 11:54:03 36.237.170.11 - - [03/Jul/2025 11:54:03] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 11:54:09 42.77.108.129 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 11:54:09 42.77.108.129 - - [03/Jul/2025 11:54:09] "GET / HTTP/1.1" 200 -
+2025-07-03 11:54:09 42.77.108.129 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 11:54:09 42.77.108.129 - - [03/Jul/2025 11:54:09] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 11:54:41 36.237.170.11 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 11:54:41 36.237.170.11 - - [03/Jul/2025 11:54:41] "POST / HTTP/1.1" 200 -
+2025-07-03 11:54:42 36.237.170.11 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 11:54:42 36.237.170.11 - - [03/Jul/2025 11:54:42] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 11:56:41 20.105.137.134 nckuopen.duckdns.org "GET /?" 200 "curl/8.6.0"
+2025-07-03 11:56:41 20.105.137.134 - - [03/Jul/2025 11:56:41] "GET / HTTP/1.1" 200 -
+2025-07-03 11:56:44 42.77.108.129 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 11:56:44 42.77.108.129 - - [03/Jul/2025 11:56:44] "GET / HTTP/1.1" 200 -
+2025-07-03 11:56:44 42.77.108.129 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 11:56:44 42.77.108.129 - - [03/Jul/2025 11:56:44] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 11:56:49 42.77.108.129 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-03 11:56:49 42.77.108.129 - - [03/Jul/2025 11:56:49] "GET / HTTP/1.1" 200 -
+2025-07-03 11:56:49 42.77.108.129 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-03 11:56:49 42.77.108.129 - - [03/Jul/2025 11:56:49] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 11:59:16 42.77.108.129 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 11:59:16 42.77.108.129 - - [03/Jul/2025 11:59:16] "GET / HTTP/1.1" 200 -
+2025-07-03 11:59:16 42.77.108.129 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 11:59:16 42.77.108.129 - - [03/Jul/2025 11:59:16] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 11:59:50 36.237.170.11 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 11:59:50 36.237.170.11 - - [03/Jul/2025 11:59:50] "POST / HTTP/1.1" 200 -
+2025-07-03 11:59:50 36.237.170.11 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 11:59:50 36.237.170.11 - - [03/Jul/2025 11:59:50] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 12:04:13 104.252.191.239 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+2025-07-03 12:04:13 104.252.191.239 - - [03/Jul/2025 12:04:13] "GET / HTTP/1.1" 200 -
+2025-07-03 12:04:19 104.164.173.202 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+2025-07-03 12:04:19 104.164.173.202 - - [03/Jul/2025 12:04:19] "GET / HTTP/1.1" 200 -
+2025-07-03 12:04:23 104.252.191.239 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+2025-07-03 12:04:23 104.252.191.239 - - [03/Jul/2025 12:04:23] "GET / HTTP/1.1" 200 -
+2025-07-03 12:04:25 104.252.191.239 nckuopen.duckdns.org "GET /https:/fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap?" 404 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+2025-07-03 12:04:25 104.252.191.239 - - [03/Jul/2025 12:04:25] "[33mGET /https:/fonts.googleapis.com/css2%3Ffamily=Noto+Sans+TC:wght@400;700&display=swap HTTP/1.1[0m" 404 -
+2025-07-03 12:06:34 147.92.179.109 nckuopen.duckdns.org "GET /?" 200 "facebookexternalhit/1.1;line-poker/1.0"
+2025-07-03 12:06:34 147.92.179.109 - - [03/Jul/2025 12:06:34] "GET / HTTP/1.1" 200 -
+2025-07-03 12:06:55 1.174.189.201 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.9.1"
+2025-07-03 12:06:55 1.174.189.201 - - [03/Jul/2025 12:06:55] "GET / HTTP/1.1" 200 -
+2025-07-03 12:06:55 1.174.189.201 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.9.1"
+2025-07-03 12:06:55 1.174.189.201 - - [03/Jul/2025 12:06:55] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-03 12:06:56 1.174.189.201 nckuopen.duckdns.org "GET /favicon.ico?" 404 "LINE/2025.619.1335 CFNetwork/3826.500.131 Darwin/24.5.0"
+2025-07-03 12:06:56 1.174.189.201 - - [03/Jul/2025 12:06:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:06:56 42.77.108.129 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 12:06:56 42.77.108.129 - - [03/Jul/2025 12:06:56] "GET / HTTP/1.1" 200 -
+2025-07-03 12:06:56 42.77.108.129 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 12:06:56 42.77.108.129 - - [03/Jul/2025 12:06:56] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 12:06:56 42.77.108.129 nckuopen.duckdns.org "GET /favicon.ico?" 404 "LINE/2025.625.805 CFNetwork/3826.500.131 Darwin/24.5.0"
+2025-07-03 12:06:56 42.77.108.129 - - [03/Jul/2025 12:06:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:07:01 42.77.108.129 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 12:07:01 42.77.108.129 - - [03/Jul/2025 12:07:01] "POST / HTTP/1.1" 200 -
+2025-07-03 12:07:01 42.77.108.129 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 12:07:01 42.77.108.129 - - [03/Jul/2025 12:07:01] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 12:07:01 42.77.108.129 nckuopen.duckdns.org "GET /favicon.ico?" 404 "LINE/2025.625.805 CFNetwork/3826.500.131 Darwin/24.5.0"
+2025-07-03 12:07:01 42.77.108.129 - - [03/Jul/2025 12:07:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:07:04 1.174.189.201 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.9.1"
+2025-07-03 12:07:04 1.174.189.201 - - [03/Jul/2025 12:07:04] "POST / HTTP/1.1" 200 -
+2025-07-03 12:07:04 1.174.189.201 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.9.1"
+2025-07-03 12:07:04 1.174.189.201 - - [03/Jul/2025 12:07:04] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 12:07:05 1.174.189.201 nckuopen.duckdns.org "GET /favicon.ico?" 404 "LINE/2025.619.1335 CFNetwork/3826.500.131 Darwin/24.5.0"
+2025-07-03 12:07:05 1.174.189.201 - - [03/Jul/2025 12:07:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:07:07 42.77.108.129 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 12:07:07 42.77.108.129 - - [03/Jul/2025 12:07:07] "POST / HTTP/1.1" 200 -
+2025-07-03 12:07:08 42.77.108.129 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 12:07:08 42.77.108.129 - - [03/Jul/2025 12:07:08] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 12:07:08 42.77.108.129 nckuopen.duckdns.org "GET /favicon.ico?" 404 "LINE/2025.625.805 CFNetwork/3826.500.131 Darwin/24.5.0"
+2025-07-03 12:07:08 42.77.108.129 - - [03/Jul/2025 12:07:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:07:48 42.77.108.129 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 12:07:48 42.77.108.129 - - [03/Jul/2025 12:07:48] "GET / HTTP/1.1" 200 -
+2025-07-03 12:07:48 42.77.108.129 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 12:07:48 42.77.108.129 - - [03/Jul/2025 12:07:48] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 12:07:48 42.77.108.129 nckuopen.duckdns.org "GET /favicon.ico?" 404 "LINE/2025.625.805 CFNetwork/3826.500.131 Darwin/24.5.0"
+2025-07-03 12:07:48 42.77.108.129 - - [03/Jul/2025 12:07:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:10:32 107.23.14.41 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-03 12:10:32 107.23.14.41 - - [03/Jul/2025 12:10:32] "GET / HTTP/1.1" 200 -
+2025-07-03 12:10:34 107.23.14.41 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-03 12:10:34 107.23.14.41 - - [03/Jul/2025 12:10:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:10:35 107.23.14.41 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-03 12:10:35 107.23.14.41 - - [03/Jul/2025 12:10:35] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-03 12:14:26 44.199.39.34 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-03 12:14:26 44.199.39.34 - - [03/Jul/2025 12:14:26] "GET / HTTP/1.1" 200 -
+2025-07-03 12:14:27 44.199.39.34 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-03 12:14:27 44.199.39.34 - - [03/Jul/2025 12:14:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:14:28 44.199.39.34 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-03 12:14:28 44.199.39.34 - - [03/Jul/2025 12:14:28] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-03 12:16:40 104.164.173.86 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+2025-07-03 12:16:40 104.164.173.86 - - [03/Jul/2025 12:16:40] "GET / HTTP/1.1" 200 -
+2025-07-03 12:16:40 104.164.173.45 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+2025-07-03 12:16:40 104.164.173.45 - - [03/Jul/2025 12:16:40] "GET / HTTP/1.1" 200 -
+2025-07-03 12:16:58 104.164.173.86 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+2025-07-03 12:16:58 104.164.173.86 - - [03/Jul/2025 12:16:58] "GET / HTTP/1.1" 200 -
+2025-07-03 12:17:11 104.164.173.86 nckuopen.duckdns.org "GET /https:/fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+2025-07-03 12:17:11 104.164.173.86 - - [03/Jul/2025 12:17:11] "[33mGET /https:/fonts.googleapis.com/css2%3Ffamily=Noto+Sans+TC:wght@400;700&display=swap HTTP/1.1[0m" 404 -
+2025-07-03 12:20:02 54.174.140.70 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-03 12:20:02 54.174.140.70 - - [03/Jul/2025 12:20:02] "GET / HTTP/1.1" 200 -
+2025-07-03 12:20:03 54.174.140.70 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-03 12:20:03 54.174.140.70 - - [03/Jul/2025 12:20:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:20:20 54.174.140.70 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-03 12:20:20 54.174.140.70 - - [03/Jul/2025 12:20:20] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-03 12:28:35 54.174.109.174 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-03 12:28:35 54.174.109.174 - - [03/Jul/2025 12:28:35] "GET / HTTP/1.1" 200 -
+2025-07-03 12:28:36 54.174.109.174 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-03 12:28:36 54.174.109.174 - - [03/Jul/2025 12:28:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:28:37 54.174.109.174 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-03 12:28:37 54.174.109.174 - - [03/Jul/2025 12:28:37] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-03 12:31:29 42.77.108.129 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 12:31:29 42.77.108.129 - - [03/Jul/2025 12:31:29] "GET / HTTP/1.1" 200 -
+2025-07-03 12:31:29 42.77.108.129 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 12:31:29 42.77.108.129 - - [03/Jul/2025 12:31:29] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 12:31:29 42.77.108.129 nckuopen.duckdns.org "GET /favicon.ico?" 404 "LINE/2025.625.805 CFNetwork/3826.500.131 Darwin/24.5.0"
+2025-07-03 12:31:29 42.77.108.129 - - [03/Jul/2025 12:31:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:32:18 54.164.157.105 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-03 12:32:18 54.164.157.105 - - [03/Jul/2025 12:32:18] "GET / HTTP/1.1" 200 -
+2025-07-03 12:32:19 54.164.157.105 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-03 12:32:19 54.164.157.105 - - [03/Jul/2025 12:32:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:32:21 54.164.157.105 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-03 12:32:21 54.164.157.105 - - [03/Jul/2025 12:32:21] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-03 12:41:53 54.164.157.105 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-03 12:41:53 54.164.157.105 - - [03/Jul/2025 12:41:53] "GET / HTTP/1.1" 200 -
+2025-07-03 12:41:55 54.164.157.105 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-03 12:41:55 54.164.157.105 - - [03/Jul/2025 12:41:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:41:56 54.164.157.105 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-03 12:41:56 54.164.157.105 - - [03/Jul/2025 12:41:56] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-03 12:44:38 54.164.157.105 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-03 12:44:38 54.164.157.105 - - [03/Jul/2025 12:44:38] "GET / HTTP/1.1" 200 -
+2025-07-03 12:44:40 54.164.157.105 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-03 12:44:40 54.164.157.105 - - [03/Jul/2025 12:44:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 12:44:41 54.164.157.105 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-03 12:44:41 54.164.157.105 - - [03/Jul/2025 12:44:41] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-03 13:26:08 115.231.78.4 140.116.82.166:443 "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.2623.112 Safari/537.36"
+2025-07-03 13:26:08 115.231.78.4 - - [03/Jul/2025 13:26:08] "GET / HTTP/1.1" 200 -
+2025-07-03 13:26:09 115.231.78.4 140.116.82.166:443 "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-03 13:26:09 115.231.78.4 - - [03/Jul/2025 13:26:09] "GET / HTTP/1.1" 200 -
+2025-07-03 13:26:11 115.231.78.4 140.116.82.166:443 "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-03 13:26:11 115.231.78.4 - - [03/Jul/2025 13:26:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 13:26:12 115.231.78.4 140.116.82.166:443 "GET /robots.txt?" 404 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-03 13:26:12 115.231.78.4 - - [03/Jul/2025 13:26:12] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-07-03 14:18:30 147.92.179.116 nckuopen.duckdns.org "GET /?" 200 "facebookexternalhit/1.1;line-poker/1.0"
+2025-07-03 14:18:30 147.92.179.116 - - [03/Jul/2025 14:18:30] "GET / HTTP/1.1" 200 -
+2025-07-03 14:23:51 54.174.109.174 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-03 14:23:51 54.174.109.174 - - [03/Jul/2025 14:23:51] "GET / HTTP/1.1" 200 -
+2025-07-03 14:23:52 54.174.109.174 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-03 14:23:52 54.174.109.174 - - [03/Jul/2025 14:23:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 14:23:53 54.174.109.174 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-03 14:23:53 54.174.109.174 - - [03/Jul/2025 14:23:53] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-03 14:34:15 223.138.51.15 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 14:34:15 223.138.51.15 - - [03/Jul/2025 14:34:15] "GET / HTTP/1.1" 200 -
+2025-07-03 14:34:15 223.138.51.15 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 14:34:15 223.138.51.15 - - [03/Jul/2025 14:34:15] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 14:34:15 223.138.51.15 nckuopen.duckdns.org "GET /favicon.ico?" 404 "LINE/2025.625.805 CFNetwork/3826.500.131 Darwin/24.5.0"
+2025-07-03 14:34:15 223.138.51.15 - - [03/Jul/2025 14:34:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 14:46:16 104.234.115.121 140.116.82.166 "GET /?" 200 "'Mozilla/5.0 (compatible; GenomeCrawlerd/1.0; +https://www.nokia.com/genomecrawler)'"
+2025-07-03 14:46:16 104.234.115.121 - - [03/Jul/2025 14:46:16] "GET / HTTP/1.1" 200 -
+2025-07-03 14:51:38 104.234.115.121 140.116.82.166 "GET /favicon.ico?" 404 "'Mozilla/5.0 (compatible; GenomeCrawlerd/1.0; +https://www.nokia.com/genomecrawler)'"
+2025-07-03 14:51:38 104.234.115.121 - - [03/Jul/2025 14:51:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 14:51:44 104.234.115.121 140.116.82.166 "GET /favicon.ico?" 404 "'Mozilla/5.0 (compatible; GenomeCrawlerd/1.0; +https://www.nokia.com/genomecrawler)'"
+2025-07-03 14:51:44 104.234.115.121 - - [03/Jul/2025 14:51:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 15:02:21 223.138.51.15 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 15:02:21 223.138.51.15 - - [03/Jul/2025 15:02:21] "GET / HTTP/1.1" 200 -
+2025-07-03 15:02:21 223.138.51.15 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.10.0"
+2025-07-03 15:02:21 223.138.51.15 - - [03/Jul/2025 15:02:21] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 15:02:21 223.138.51.15 nckuopen.duckdns.org "GET /favicon.ico?" 404 "LINE/2025.625.805 CFNetwork/3826.500.131 Darwin/24.5.0"
+2025-07-03 15:02:21 223.138.51.15 - - [03/Jul/2025 15:02:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 15:02:35 140.116.82.166 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 15:02:35 140.116.82.166 - - [03/Jul/2025 15:02:35] "GET / HTTP/1.1" 200 -
+2025-07-03 15:02:35 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 15:02:35 140.116.82.166 - - [03/Jul/2025 15:02:35] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-03 15:02:36 140.116.82.166 nckuopen.duckdns.org "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 15:02:36 140.116.82.166 - - [03/Jul/2025 15:02:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 15:02:56 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 15:02:56 140.116.82.166 - - [03/Jul/2025 15:02:56] "POST / HTTP/1.1" 200 -
+2025-07-03 15:02:56 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 15:02:56 140.116.82.166 - - [03/Jul/2025 15:02:56] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 15:03:05 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 15:03:05 140.116.82.166 - - [03/Jul/2025 15:03:05] "POST / HTTP/1.1" 200 -
+2025-07-03 15:03:05 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 15:03:05 140.116.82.166 - - [03/Jul/2025 15:03:05] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-03 15:03:05 140.116.82.166 nckuopen.duckdns.org "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 15:03:05 140.116.82.166 - - [03/Jul/2025 15:03:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 15:03:06 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 15:03:06 140.116.82.166 - - [03/Jul/2025 15:03:06] "POST / HTTP/1.1" 200 -
+2025-07-03 15:03:06 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 15:03:06 140.116.82.166 - - [03/Jul/2025 15:03:06] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 15:04:37 140.116.82.166 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 15:04:37 140.116.82.166 - - [03/Jul/2025 15:04:37] "GET / HTTP/1.1" 200 -
+2025-07-03 15:04:37 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 15:04:37 140.116.82.166 - - [03/Jul/2025 15:04:37] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 15:15:33 20.168.0.218 140.116.82.166 "GET /owa/auth/logon.aspx?" 404 "Mozilla/5.0 zgrab/0.x"
+2025-07-03 15:15:33 20.168.0.218 - - [03/Jul/2025 15:15:33] "[33mGET /owa/auth/logon.aspx HTTP/1.1[0m" 404 -
+2025-07-03 16:02:45 104.140.148.86 140.116.82.166 "POST /?" 400 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2656.18 Safari/537.36"
+2025-07-03 16:02:45 104.140.148.86 - - [03/Jul/2025 16:02:45] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2025-07-03 16:04:34 185.247.137.187 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)"
+2025-07-03 16:04:34 185.247.137.187 - - [03/Jul/2025 16:04:34] "GET / HTTP/1.1" 200 -
+2025-07-03 16:13:22 54.164.157.105 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-03 16:13:22 54.164.157.105 - - [03/Jul/2025 16:13:22] "GET / HTTP/1.1" 200 -
+2025-07-03 16:13:23 54.164.157.105 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-03 16:13:23 54.164.157.105 - - [03/Jul/2025 16:13:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 16:13:24 54.164.157.105 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-03 16:13:24 54.164.157.105 - - [03/Jul/2025 16:13:24] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-03 16:49:15 147.92.179.118 nckuopen.duckdns.org "GET /?" 200 "facebookexternalhit/1.1;line-poker/1.0"
+2025-07-03 16:49:15 147.92.179.118 - - [03/Jul/2025 16:49:15] "GET / HTTP/1.1" 200 -
+2025-07-03 16:49:19 140.116.44.92 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 16:49:19 140.116.44.92 - - [03/Jul/2025 16:49:19] "GET / HTTP/1.1" 200 -
+2025-07-03 16:49:19 140.116.44.92 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 16:49:19 140.116.44.92 - - [03/Jul/2025 16:49:19] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-03 16:49:19 140.116.44.92 nckuopen.duckdns.org "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 16:49:19 140.116.44.92 - - [03/Jul/2025 16:49:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 16:49:27 140.116.44.92 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 16:49:27 140.116.44.92 - - [03/Jul/2025 16:49:27] "POST / HTTP/1.1" 200 -
+2025-07-03 16:49:27 140.116.44.92 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 16:49:27 140.116.44.92 - - [03/Jul/2025 16:49:27] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 16:49:40 223.138.51.15 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 16:49:40 223.138.51.15 - - [03/Jul/2025 16:49:40] "GET / HTTP/1.1" 200 -
+2025-07-03 16:49:41 223.138.51.15 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 16:49:41 223.138.51.15 - - [03/Jul/2025 16:49:41] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 16:59:35 196.251.88.60 140.116.82.166 "GET /_profiler/phpinfo?" 404 "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0"
+2025-07-03 16:59:35 196.251.88.60 - - [03/Jul/2025 16:59:35] "[33mGET /_profiler/phpinfo HTTP/1.1[0m" 404 -
+2025-07-03 17:06:18 139.162.3.141 None "GET /?" 200 "None"
+2025-07-03 17:06:18 139.162.3.141 - - [03/Jul/2025 17:06:18] "GET / HTTP/1.0" 200 -
+2025-07-03 17:06:19 139.162.3.141 None "OPTIONS /?" 200 "None"
+2025-07-03 17:06:19 139.162.3.141 - - [03/Jul/2025 17:06:19] "OPTIONS / HTTP/1.0" 200 -
+2025-07-03 17:06:19 139.162.3.141 None "GET /nice ports,/Trinity.txt.bak?" 404 "None"
+2025-07-03 17:06:19 139.162.3.141 - - [03/Jul/2025 17:06:19] "[33mGET /nice%20ports,/Trinity.txt.bak HTTP/1.0[0m" 404 -
+2025-07-03 17:06:24 139.162.3.141 - - [03/Jul/2025 17:06:24] code 400, message Bad request syntax ('\x00\x00\x07\x00\x08\x00\x03\x00\x04\x00\x05\x00\x06')
+2025-07-03 17:06:24 139.162.3.141 - - [03/Jul/2025 17:06:24] "[31m[1m\x00\x00\x07\x00\x08\x00\x03\x00\x04\x00\x05\x00\x06[0m" 400 -
+2025-07-03 17:06:24 139.162.3.141 - - [03/Jul/2025 17:06:24] code 400, message Bad request version ('RTSP/1.0')
+2025-07-03 17:06:24 139.162.3.141 - - [03/Jul/2025 17:06:24] "[31m[1mOPTIONS / RTSP/1.0[0m" 400 -
+2025-07-03 17:06:30 139.162.3.141 - - [03/Jul/2025 17:06:30] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+2025-07-03 17:06:30 139.162.3.141 - - [03/Jul/2025 17:06:30] "[31m[1m\x80\x00\x00(r\xfe\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86\xa0\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-07-03 17:06:35 139.162.3.141 - - [03/Jul/2025 17:06:35] code 400, message Bad HTTP/0.9 request type ('\x00')
+2025-07-03 17:06:35 139.162.3.141 - - [03/Jul/2025 17:06:35] "[31m[1m\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03[0m" 400 -
+2025-07-03 17:06:35 139.162.3.141 - - [03/Jul/2025 17:06:35] code 400, message Bad request syntax ('HELP')
+2025-07-03 17:06:35 139.162.3.141 - - [03/Jul/2025 17:06:35] "[31m[1mHELP[0m" 400 -
+2025-07-03 17:06:35 139.162.3.141 - - [03/Jul/2025 17:06:35] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G�ѡ�\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00')
+2025-07-03 17:06:35 139.162.3.141 - - [03/Jul/2025 17:06:35] "[31m[1m\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G�ѡ�\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00[0m" 400 -
+2025-07-03 17:06:35 139.162.3.141 - - [03/Jul/2025 17:06:35] code 400, message Bad request version ('\x00/\x00')
+2025-07-03 17:06:35 139.162.3.141 - - [03/Jul/2025 17:06:35] "[31m[1m\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c��\xe4random1random2random3random4\x00\x00\x0c\x00/\x00[0m" 400 -
+2025-07-03 17:06:36 139.162.3.141 - - [03/Jul/2025 17:06:36] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k\xa1\x03\x02\x01\x05�F\x03\x02\x01')
+2025-07-03 17:06:36 139.162.3.141 - - [03/Jul/2025 17:06:36] "[31m[1m\x00\x00\x00qj\x81n0\x81k\xa1\x03\x02\x01\x05�F\x03\x02\x01[0m" 400 -
+2025-07-03 17:06:41 139.162.3.141 - - [03/Jul/2025 17:06:41] code 400, message Bad request version ('0.12\x00')
+2025-07-03 17:06:41 139.162.3.141 - - [03/Jul/2025 17:06:41] "[31m[1m\x00\x00\x00\xa4\xffSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00[0m" 400 -
+2025-07-03 17:06:46 139.162.3.141 - - [03/Jul/2025 17:06:46] code 400, message Bad HTTP/0.9 request type ('l\x00')
+2025-07-03 17:06:46 139.162.3.141 - - [03/Jul/2025 17:06:46] "[31m[1ml\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-07-03 17:06:46 139.162.3.141 - - [03/Jul/2025 17:06:46] code 400, message Bad request version ('SIP/2.0')
+2025-07-03 17:06:46 139.162.3.141 - - [03/Jul/2025 17:06:46] "[31m[1mOPTIONS sip:nm SIP/2.0[0m" 400 -
+2025-07-03 17:06:51 139.162.3.141 - - [03/Jul/2025 17:06:51] code 400, message Bad HTTP/0.9 request type ('AMQP\x00\x00')
+2025-07-03 17:06:51 139.162.3.141 - - [03/Jul/2025 17:06:51] "[31m[1mAMQP\x00\x00\x09\x01[0m" 400 -
+2025-07-03 17:06:51 139.162.3.141 None "GET /devicedesc.xml?" 404 "None"
+2025-07-03 17:06:51 139.162.3.141 - - [03/Jul/2025 17:06:51] "[33mGET /devicedesc.xml HTTP/1.1[0m" 404 -
+2025-07-03 17:06:52 139.162.3.141 cial2.csie.ncku.edu.tw "GET /?" 200 "Mozilla/5.0 (Linux; Android 8; SM-G990B; Build/OPR5.221108.127) AppleWebKit/537.36 (KHTML"
+2025-07-03 17:06:52 139.162.3.141 - - [03/Jul/2025 17:06:52] "GET / HTTP/1.1" 200 -
+2025-07-03 17:06:52 139.162.3.141 cial2.csie.ncku.edu.tw "GET /favicon.ico?" 404 "Mozilla/5.0 (Linux; Android 8; SM-G990B; Build/OPR5.221108.127) AppleWebKit/537.36 (KHTML"
+2025-07-03 17:06:52 139.162.3.141 - - [03/Jul/2025 17:06:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 17:07:12 139.162.3.141 cial2.csie.ncku.edu.tw "GET /?" 200 "None"
+2025-07-03 17:07:12 139.162.3.141 - - [03/Jul/2025 17:07:12] "GET / HTTP/1.1" 200 -
+2025-07-03 17:22:47 64.62.156.182 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.56"
+2025-07-03 17:22:47 64.62.156.182 - - [03/Jul/2025 17:22:47] "GET / HTTP/1.1" 200 -
+2025-07-03 17:34:09 64.62.156.188 140.116.82.166 "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+2025-07-03 17:34:09 64.62.156.188 - - [03/Jul/2025 17:34:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 17:36:23 64.62.156.188 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.56"
+2025-07-03 17:36:23 64.62.156.188 - - [03/Jul/2025 17:36:23] "GET / HTTP/1.1" 200 -
+2025-07-03 17:45:32 64.62.156.182 140.116.82.166 "GET /geoserver/web/?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0"
+2025-07-03 17:45:32 64.62.156.182 - - [03/Jul/2025 17:45:32] "[33mGET /geoserver/web/ HTTP/1.1[0m" 404 -
+2025-07-03 18:20:46 141.255.162.250 140.116.82.166:443 "GET /?" 200 "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)"
+2025-07-03 18:20:46 141.255.162.250 - - [03/Jul/2025 18:20:46] "GET / HTTP/1.1" 200 -
+2025-07-03 18:25:35 141.255.162.250 140.116.82.166:443 "GET /?" 200 "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)"
+2025-07-03 18:25:35 141.255.162.250 - - [03/Jul/2025 18:25:35] "GET / HTTP/1.1" 200 -
+2025-07-03 18:43:45 196.251.84.146 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0 (Linux; Android 9; STK-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36"
+2025-07-03 18:43:45 196.251.84.146 - - [03/Jul/2025 18:43:45] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-03 18:47:19 223.139.37.239 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,4;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]"
+2025-07-03 18:47:19 223.139.37.239 - - [03/Jul/2025 18:47:19] "GET / HTTP/1.1" 200 -
+2025-07-03 18:47:20 223.139.37.239 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,4;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]"
+2025-07-03 18:47:20 223.139.37.239 - - [03/Jul/2025 18:47:20] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-03 18:47:31 223.139.37.239 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,4;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]"
+2025-07-03 18:47:31 223.139.37.239 - - [03/Jul/2025 18:47:31] "POST / HTTP/1.1" 200 -
+2025-07-03 18:47:31 223.139.37.239 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,4;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]"
+2025-07-03 18:47:31 223.139.37.239 - - [03/Jul/2025 18:47:31] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 19:13:29 223.138.51.15 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 19:13:29 223.138.51.15 - - [03/Jul/2025 19:13:29] "GET / HTTP/1.1" 200 -
+2025-07-03 19:13:29 223.138.51.15 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 19:13:29 223.138.51.15 - - [03/Jul/2025 19:13:29] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 19:55:47 85.12.7.204 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Safari/605.1.1"
+2025-07-03 19:55:47 85.12.7.204 - - [03/Jul/2025 19:55:47] "GET / HTTP/1.1" 200 -
+2025-07-03 20:06:22 54.174.109.174 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-03 20:06:22 54.174.109.174 - - [03/Jul/2025 20:06:22] "GET / HTTP/1.1" 200 -
+2025-07-03 20:06:24 54.174.109.174 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-03 20:06:24 54.174.109.174 - - [03/Jul/2025 20:06:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 20:06:28 54.174.109.174 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-03 20:06:28 54.174.109.174 - - [03/Jul/2025 20:06:28] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-03 20:13:07 159.89.119.248 140.116.82.166 "GET /.git/config?" 404 "Mozilla/5.0; Keydrop.io/1.0(onlyscans.com/about);"
+2025-07-03 20:13:07 159.89.119.248 - - [03/Jul/2025 20:13:07] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+2025-07-03 20:13:09 159.89.119.248 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0; Keydrop.io/1.0(onlyscans.com/about);"
+2025-07-03 20:13:09 159.89.119.248 - - [03/Jul/2025 20:13:09] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-03 20:18:23 52.20.19.158 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-03 20:18:23 52.20.19.158 - - [03/Jul/2025 20:18:23] "GET / HTTP/1.1" 200 -
+2025-07-03 20:18:25 3.220.101.67 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-03 20:18:25 3.220.101.67 - - [03/Jul/2025 20:18:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 20:18:27 52.20.19.158 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-03 20:18:27 52.20.19.158 - - [03/Jul/2025 20:18:27] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-03 20:21:40 140.116.82.166 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 20:21:40 140.116.82.166 - - [03/Jul/2025 20:21:40] "GET / HTTP/1.1" 200 -
+2025-07-03 20:21:40 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 20:21:40 140.116.82.166 - - [03/Jul/2025 20:21:40] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 20:22:11 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 20:22:11 140.116.82.166 - - [03/Jul/2025 20:22:11] "POST / HTTP/1.1" 200 -
+2025-07-03 20:22:11 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 20:22:11 140.116.82.166 - - [03/Jul/2025 20:22:11] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+
+2025-07-03 20:22:55 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 20:22:55 140.116.82.166 - - [03/Jul/2025 20:22:55] "POST / HTTP/1.1" 200 -
+2025-07-03 20:22:55 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 20:22:55 140.116.82.166 - - [03/Jul/2025 20:22:55] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 20:22:58 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 20:22:58 140.116.82.166 - - [03/Jul/2025 20:22:58] "POST / HTTP/1.1" 200 -
+2025-07-03 20:22:58 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 20:22:58 140.116.82.166 - - [03/Jul/2025 20:22:58] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 20:23:26 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 20:23:26 140.116.82.166 - - [03/Jul/2025 20:23:26] "POST / HTTP/1.1" 200 -
+2025-07-03 20:23:26 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 20:23:26 140.116.82.166 - - [03/Jul/2025 20:23:26] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 20:23:37 140.116.82.161 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:23:37 140.116.82.161 - - [03/Jul/2025 20:23:37] "GET / HTTP/1.1" 200 -
+2025-07-03 20:23:37 140.116.82.161 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:23:37 140.116.82.161 - - [03/Jul/2025 20:23:37] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 20:23:42 140.116.82.161 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:23:42 140.116.82.161 - - [03/Jul/2025 20:23:42] "POST / HTTP/1.1" 200 -
+2025-07-03 20:23:42 140.116.82.161 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:23:42 140.116.82.161 - - [03/Jul/2025 20:23:42] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 20:25:37 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:443
+ * Running on https://140.116.82.166:443
+2025-07-03 20:25:37 [33mPress CTRL+C to quit[0m
+2025-07-03 20:25:45 140.116.82.161 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:25:45 140.116.82.161 - - [03/Jul/2025 20:25:45] "POST / HTTP/1.1" 200 -
+2025-07-03 20:25:45 140.116.82.161 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:25:45 140.116.82.161 - - [03/Jul/2025 20:25:45] "POST / HTTP/1.1" 200 -
+2025-07-03 20:25:45 140.116.82.161 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:25:45 140.116.82.161 - - [03/Jul/2025 20:25:45] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 20:27:40 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:443
+ * Running on https://140.116.82.166:443
+2025-07-03 20:27:40 [33mPress CTRL+C to quit[0m
+2025-07-03 20:27:42 140.116.82.161 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:27:42 140.116.82.161 - - [03/Jul/2025 20:27:42] "POST / HTTP/1.1" 200 -
+2025-07-03 20:27:42 140.116.82.161 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:27:42 140.116.82.161 - - [03/Jul/2025 20:27:42] "POST / HTTP/1.1" 200 -
+2025-07-03 20:27:42 140.116.82.161 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:27:42 140.116.82.161 - - [03/Jul/2025 20:27:42] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-03 20:28:24 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:443
+ * Running on https://140.116.82.166:443
+2025-07-03 20:28:24 [33mPress CTRL+C to quit[0m
+2025-07-03 20:28:25 140.116.82.161 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:28:25 140.116.82.161 - - [03/Jul/2025 20:28:25] "POST / HTTP/1.1" 200 -
+2025-07-03 20:28:25 140.116.82.161 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:28:25 140.116.82.161 - - [03/Jul/2025 20:28:25] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 20:28:27 140.116.82.161 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:28:27 140.116.82.161 - - [03/Jul/2025 20:28:27] "POST / HTTP/1.1" 200 -
+2025-07-03 20:28:27 140.116.82.161 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:28:27 140.116.82.161 - - [03/Jul/2025 20:28:27] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 20:30:34 140.116.82.161 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:30:34 140.116.82.161 - - [03/Jul/2025 20:30:34] "GET / HTTP/1.1" 200 -
+2025-07-03 20:30:35 140.116.82.161 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:30:35 140.116.82.161 - - [03/Jul/2025 20:30:35] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 20:30:38 140.116.82.161 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:30:38 140.116.82.161 - - [03/Jul/2025 20:30:38] "POST / HTTP/1.1" 200 -
+2025-07-03 20:30:39 140.116.82.161 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 20:30:39 140.116.82.161 - - [03/Jul/2025 20:30:39] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 20:41:40 194.104.156.47 140.116.82.166:443 "GET /locales/locale.json?locale=../../config/&namespace=database" 404 "Go-http-client/1.1"
+2025-07-03 20:41:40 194.104.156.47 - - [03/Jul/2025 20:41:40] "[33mGET /locales/locale.json?locale=../../config/&namespace=database HTTP/1.1[0m" 404 -
+2025-07-03 20:56:18 45.130.104.153 140.116.82.166:443 "GET /locales/locale.json?locale=../../config/&namespace=database" 404 "Go-http-client/1.1"
+2025-07-03 20:56:18 45.130.104.153 - - [03/Jul/2025 20:56:18] "[33mGET /locales/locale.json?locale=../../config/&namespace=database HTTP/1.1[0m" 404 -
+2025-07-03 22:08:29 223.139.37.239 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,4;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]"
+2025-07-03 22:08:29 223.139.37.239 - - [03/Jul/2025 22:08:29] "GET / HTTP/1.1" 200 -
+2025-07-03 22:08:29 223.139.37.239 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,4;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]"
+2025-07-03 22:08:29 223.139.37.239 - - [03/Jul/2025 22:08:29] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 22:08:36 223.139.37.239 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,4;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]"
+2025-07-03 22:08:36 223.139.37.239 - - [03/Jul/2025 22:08:36] "POST / HTTP/1.1" 200 -
+2025-07-03 22:08:36 223.139.37.239 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,4;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]"
+2025-07-03 22:08:36 223.139.37.239 - - [03/Jul/2025 22:08:36] "POST / HTTP/1.1" 200 -
+2025-07-03 22:08:36 223.139.37.239 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,4;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/en_US;FBOP/80]"
+2025-07-03 22:08:36 223.139.37.239 - - [03/Jul/2025 22:08:36] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 23:08:02 36.237.170.11 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 23:08:02 36.237.170.11 - - [03/Jul/2025 23:08:02] "GET / HTTP/1.1" 200 -
+2025-07-03 23:08:02 36.237.170.11 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-03 23:08:02 36.237.170.11 - - [03/Jul/2025 23:08:02] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-03 23:11:32 36.237.170.11 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-03 23:11:32 36.237.170.11 - - [03/Jul/2025 23:11:32] "GET / HTTP/1.1" 200 -
+2025-07-03 23:11:32 36.237.170.11 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-03 23:11:32 36.237.170.11 - - [03/Jul/2025 23:11:32] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-03 23:29:12 104.28.224.94 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+2025-07-03 23:29:12 104.28.224.94 - - [03/Jul/2025 23:29:12] "GET / HTTP/1.1" 200 -
+2025-07-03 23:30:42 188.241.207.170 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/123.0.6312.52 Mobile/15E148 Safari/604.1"
+2025-07-03 23:30:42 188.241.207.170 - - [03/Jul/2025 23:30:42] "GET / HTTP/1.1" 200 -
+2025-07-03 23:30:43 103.196.9.204 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/123.0.6312.52 Mobile/15E148 Safari/604.1"
+2025-07-03 23:30:43 103.196.9.204 - - [03/Jul/2025 23:30:43] "GET / HTTP/1.1" 200 -
+2025-07-03 23:30:44 103.196.9.204 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/123.0.6312.52 Mobile/15E148 Safari/604.1"
+2025-07-03 23:30:44 103.196.9.204 - - [03/Jul/2025 23:30:44] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-03 23:30:44 89.40.81.29 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/123.0.6312.52 Mobile/15E148 Safari/604.1"
+2025-07-03 23:30:44 89.40.81.29 - - [03/Jul/2025 23:30:44] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-03 23:30:45 168.151.103.147 nckuopen.duckdns.org "GET /favicon.ico?" 404 "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/123.0.6312.52 Mobile/15E148 Safari/604.1"
+2025-07-03 23:30:45 168.151.103.147 - - [03/Jul/2025 23:30:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 23:30:45 103.196.9.204 nckuopen.duckdns.org "GET /favicon.ico?" 404 "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/123.0.6312.52 Mobile/15E148 Safari/604.1"
+2025-07-03 23:30:45 103.196.9.204 - - [03/Jul/2025 23:30:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-03 23:32:36 103.196.9.64 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+2025-07-03 23:32:36 103.196.9.64 - - [03/Jul/2025 23:32:36] "GET / HTTP/1.1" 200 -
+2025-07-03 23:32:42 103.196.9.64 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+2025-07-03 23:32:42 103.196.9.64 - - [03/Jul/2025 23:32:42] "GET / HTTP/1.1" 200 -
+2025-07-03 23:32:45 103.196.9.64 nckuopen.duckdns.org "GET /https:/fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;700&display=swap?" 404 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+2025-07-03 23:32:45 103.196.9.64 - - [03/Jul/2025 23:32:45] "[33mGET /https:/fonts.googleapis.com/css2%3Ffamily=Noto+Sans+TC:wght@400;700&display=swap HTTP/1.1[0m" 404 -
+2025-07-03 23:50:26 144.126.204.186 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 23:50:26 144.126.204.186 - - [03/Jul/2025 23:50:26] "GET / HTTP/1.1" 200 -
+2025-07-03 23:50:32 144.126.204.186 140.116.82.166 "GET /favicon.ico?" 404 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-03 23:50:32 144.126.204.186 - - [03/Jul/2025 23:50:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 00:31:30 54.164.157.105 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-04 00:31:30 54.164.157.105 - - [04/Jul/2025 00:31:30] "GET / HTTP/1.1" 200 -
+2025-07-04 00:31:31 54.164.157.105 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-04 00:31:31 54.164.157.105 - - [04/Jul/2025 00:31:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 00:31:32 54.164.157.105 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-04 00:31:32 54.164.157.105 - - [04/Jul/2025 00:31:32] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-04 00:44:13 35.205.72.200 140.116.82.166 "GET /?" 200 "python-requests/2.32.4"
+2025-07-04 00:44:13 35.205.72.200 - - [04/Jul/2025 00:44:13] "GET / HTTP/1.1" 200 -
+2025-07-04 00:50:51 170.39.218.2  "GET /?" 200 "None"
+2025-07-04 00:50:51 170.39.218.2 - - [04/Jul/2025 00:50:51] "GET / HTTP/1.1" 200 -
+2025-07-04 00:50:57 170.39.218.2 140.116.82.166 "GET /?" 200 "l9tcpid/v1.1.0"
+2025-07-04 00:50:57 170.39.218.2 - - [04/Jul/2025 00:50:57] "GET / HTTP/1.1" 200 -
+2025-07-04 00:50:58 170.39.218.2 140.116.82.166 "GET /.git/config?" 404 "l9explore/1.2.2"
+2025-07-04 00:50:58 170.39.218.2 - - [04/Jul/2025 00:50:58] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+2025-07-04 01:05:54 115.231.78.4 140.116.82.166:443 "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.2623.112 Safari/537.36"
+2025-07-04 01:05:54 115.231.78.4 - - [04/Jul/2025 01:05:54] "GET / HTTP/1.1" 200 -
+2025-07-04 01:05:55 115.231.78.4 140.116.82.166:443 "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-04 01:05:55 115.231.78.4 - - [04/Jul/2025 01:05:55] "GET / HTTP/1.1" 200 -
+2025-07-04 01:05:56 115.231.78.4 140.116.82.166:443 "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-04 01:05:56 115.231.78.4 - - [04/Jul/2025 01:05:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 01:05:57 115.231.78.4 140.116.82.166:443 "GET /robots.txt?" 404 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-04 01:05:57 115.231.78.4 - - [04/Jul/2025 01:05:57] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-07-04 01:31:50 170.51.41.84 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/137.0.0.0 Safari/537.36"
+2025-07-04 01:31:50 170.51.41.84 - - [04/Jul/2025 01:31:50] "GET / HTTP/1.1" 200 -
+2025-07-04 01:31:50 170.51.41.84 nckuopen.duckdns.org "GET /favicon.ico?" 404 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/137.0.0.0 Safari/537.36"
+2025-07-04 01:31:50 170.51.41.84 - - [04/Jul/2025 01:31:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 01:41:50 104.210.140.136 nckuopen.duckdns.org "GET /robots.txt?" 404 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot"
+2025-07-04 01:41:50 104.210.140.136 - - [04/Jul/2025 01:41:50] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-07-04 02:55:37 23.27.145.173 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/120.0"
+2025-07-04 02:55:37 23.27.145.173 - - [04/Jul/2025 02:55:37] "GET / HTTP/1.1" 200 -
+2025-07-04 03:01:16 150.9.185.98 140.116.82.166 "GET /?" 200 "None"
+2025-07-04 03:01:16 150.9.185.98 - - [04/Jul/2025 03:01:16] "GET / HTTP/1.0" 200 -
+2025-07-04 03:44:29 45.131.155.253 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51"
+2025-07-04 03:44:29 45.131.155.253 - - [04/Jul/2025 03:44:29] "GET / HTTP/1.1" 200 -
+2025-07-04 03:47:19 165.154.237.247 140.116.82.166:443 "GET /?" 200 "None"
+2025-07-04 03:47:19 165.154.237.247 - - [04/Jul/2025 03:47:19] "GET / HTTP/1.1" 200 -
+2025-07-04 03:47:19 165.154.253.248 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
+2025-07-04 03:47:19 165.154.253.248 - - [04/Jul/2025 03:47:19] "GET / HTTP/1.1" 200 -
+2025-07-04 03:47:19 165.154.253.248 140.116.82.166 "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
+2025-07-04 03:47:19 165.154.253.248 - - [04/Jul/2025 03:47:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 04:57:27 196.251.88.60 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0"
+2025-07-04 04:57:27 196.251.88.60 - - [04/Jul/2025 04:57:27] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-04 06:03:22 54.164.157.105 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-04 06:03:22 54.164.157.105 - - [04/Jul/2025 06:03:22] "GET / HTTP/1.1" 200 -
+2025-07-04 06:03:23 54.164.157.105 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-04 06:03:23 54.164.157.105 - - [04/Jul/2025 06:03:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 06:03:24 54.164.157.105 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-04 06:03:24 54.164.157.105 - - [04/Jul/2025 06:03:24] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-04 06:14:20 196.251.84.146 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/75.0.3770.103 Mobile/15E148 Safari/605.1"
+2025-07-04 06:14:20 196.251.84.146 - - [04/Jul/2025 06:14:20] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-04 06:14:28 109.199.111.230 140.116.82.166:443 "GET /locales/locale.json?locale=../../config/&namespace=database" 404 "Go-http-client/1.1"
+2025-07-04 06:14:28 109.199.111.230 - - [04/Jul/2025 06:14:28] "[33mGET /locales/locale.json?locale=../../config/&namespace=database HTTP/1.1[0m" 404 -
+2025-07-04 06:56:34 207.180.194.130 140.116.82.166:443 "GET /locales/locale.json?locale=../../config/&namespace=database" 404 "Go-http-client/1.1"
+2025-07-04 06:56:34 207.180.194.130 - - [04/Jul/2025 06:56:34] "[33mGET /locales/locale.json?locale=../../config/&namespace=database HTTP/1.1[0m" 404 -
+2025-07-04 07:09:33 20.29.24.16 140.116.82.166 "GET /login?" 404 "Mozilla/5.0 zgrab/0.x"
+2025-07-04 07:09:33 20.29.24.16 - - [04/Jul/2025 07:09:33] "[33mGET /login HTTP/1.1[0m" 404 -
+2025-07-04 07:24:47 5.101.64.6 140.116.82.166:443 "GET /aaa9?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+2025-07-04 07:24:47 5.101.64.6 - - [04/Jul/2025 07:24:47] "[33mGET /aaa9 HTTP/1.1[0m" 404 -
+2025-07-04 07:24:48 95.215.0.144 140.116.82.166:443 "GET /?" 200 "fasthttp"
+2025-07-04 07:24:48 95.215.0.144 - - [04/Jul/2025 07:24:48] "GET / HTTP/1.1" 200 -
+2025-07-04 07:24:49 5.101.64.6 140.116.82.166:443 "GET /aab9?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+2025-07-04 07:24:49 5.101.64.6 - - [04/Jul/2025 07:24:49] "[33mGET /aab9 HTTP/1.1[0m" 404 -
+2025-07-04 07:25:05 193.24.123.69 140.116.82.166:443 "GET /aaa9?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+2025-07-04 07:25:05 193.24.123.69 - - [04/Jul/2025 07:25:05] "[33mGET /aaa9 HTTP/1.1[0m" 404 -
+2025-07-04 07:25:06 193.24.123.69 140.116.82.166:443 "GET /aab9?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+2025-07-04 07:25:06 193.24.123.69 - - [04/Jul/2025 07:25:06] "[33mGET /aab9 HTTP/1.1[0m" 404 -
+2025-07-04 08:10:32 196.251.70.87 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0 (Linux; Android 9; Pixel 2 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36"
+2025-07-04 08:10:32 196.251.70.87 - - [04/Jul/2025 08:10:32] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-04 08:19:34 13.95.133.245 nckuopen.duckdns.org "GET /?" 200 "curl/8.6.0"
+2025-07-04 08:19:34 13.95.133.245 - - [04/Jul/2025 08:19:34] "GET / HTTP/1.1" 200 -
+2025-07-04 08:30:30 193.24.123.69 None "GET /?" 200 "None"
+2025-07-04 08:30:30 193.24.123.69 - - [04/Jul/2025 08:30:30] "GET / HTTP/1.1" 200 -
+2025-07-04 08:30:41 196.251.117.9 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1"
+2025-07-04 08:30:41 196.251.117.9 - - [04/Jul/2025 08:30:41] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-04 08:51:40 172.203.234.251 140.116.82.166 "GET /owa/auth/x.js?" 404 "Mozilla/5.0 zgrab/0.x"
+2025-07-04 08:51:40 172.203.234.251 - - [04/Jul/2025 08:51:40] "[33mGET /owa/auth/x.js HTTP/1.1[0m" 404 -
+2025-07-04 09:17:54 161.35.124.49 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0; Keydrop.io/1.0(onlyscans.com/about);"
+2025-07-04 09:17:54 161.35.124.49 - - [04/Jul/2025 09:17:54] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-04 09:17:56 161.35.124.49 140.116.82.166 "GET /.git/config?" 404 "Mozilla/5.0; Keydrop.io/1.0(onlyscans.com/about);"
+2025-07-04 09:17:56 161.35.124.49 - - [04/Jul/2025 09:17:56] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+2025-07-04 09:34:02 66.228.53.4 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+2025-07-04 09:34:02 66.228.53.4 - - [04/Jul/2025 09:34:02] "GET / HTTP/1.1" 200 -
+2025-07-04 09:49:33 45.43.33.218 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0"
+2025-07-04 09:49:33 45.43.33.218 - - [04/Jul/2025 09:49:33] "GET / HTTP/1.1" 200 -
+2025-07-04 10:14:53 135.148.100.196 nckuopen.duckdns.org "GET /?" 200 "None"
+2025-07-04 10:14:53 135.148.100.196 - - [04/Jul/2025 10:14:53] "GET / HTTP/1.1" 200 -
+2025-07-04 10:15:56 147.182.202.179 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36"
+2025-07-04 10:15:56 147.182.202.179 - - [04/Jul/2025 10:15:56] "GET / HTTP/1.1" 200 -
+2025-07-04 10:16:08 147.182.202.179 - - [04/Jul/2025 10:16:08] SSL error occurred: [SSL: UNEXPECTED_RECORD] unexpected record (_ssl.c:2559)
+2025-07-04 10:16:13 147.182.202.179 140.116.82.166 "GET /robots.txt?" 404 "None"
+2025-07-04 10:16:13 147.182.202.179 - - [04/Jul/2025 10:16:13] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-07-04 10:16:14 147.182.202.179 140.116.82.166 "GET /sitemap.xml?" 404 "None"
+2025-07-04 10:16:14 147.182.202.179 - - [04/Jul/2025 10:16:14] "[33mGET /sitemap.xml HTTP/1.1[0m" 404 -
+2025-07-04 10:16:16 147.182.202.179 140.116.82.166 "GET /.well-known/security.txt?" 404 "None"
+2025-07-04 10:16:16 147.182.202.179 - - [04/Jul/2025 10:16:16] "[33mGET /.well-known/security.txt HTTP/1.1[0m" 404 -
+2025-07-04 10:16:18 147.182.202.179 140.116.82.166 "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36"
+2025-07-04 10:16:18 147.182.202.179 - - [04/Jul/2025 10:16:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 10:16:52 147.182.202.179 140.116.82.166 "GET /aaa9?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36"
+2025-07-04 10:16:52 147.182.202.179 - - [04/Jul/2025 10:16:52] "[33mGET /aaa9 HTTP/1.1[0m" 404 -
+2025-07-04 10:16:53 147.182.202.179 140.116.82.166 "GET /aad7?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36"
+2025-07-04 10:16:53 147.182.202.179 - - [04/Jul/2025 10:16:53] "[33mGET /aad7 HTTP/1.1[0m" 404 -
+2025-07-04 10:24:48 135.148.100.196 nckuopen.duckdns.org "GET /?" 200 "None"
+2025-07-04 10:24:48 135.148.100.196 - - [04/Jul/2025 10:24:48] "GET / HTTP/1.1" 200 -
+2025-07-04 10:30:15 135.148.100.196 nckuopen.duckdns.org "GET /?" 200 "None"
+2025-07-04 10:30:15 135.148.100.196 - - [04/Jul/2025 10:30:15] "GET / HTTP/1.1" 200 -
+2025-07-04 10:38:40 135.148.100.196 nckuopen.duckdns.org "GET /?" 200 "None"
+2025-07-04 10:38:40 135.148.100.196 - - [04/Jul/2025 10:38:40] "GET / HTTP/1.1" 200 -
+2025-07-04 11:24:58 165.154.253.251 140.116.82.166:443 "GET /?" 200 "None"
+2025-07-04 11:24:58 165.154.253.251 - - [04/Jul/2025 11:24:58] "GET / HTTP/1.1" 200 -
+2025-07-04 11:24:58 165.154.253.248 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
+2025-07-04 11:24:58 165.154.253.248 - - [04/Jul/2025 11:24:58] "GET / HTTP/1.1" 200 -
+2025-07-04 11:24:58 165.154.253.248 140.116.82.166 "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
+2025-07-04 11:24:58 165.154.253.248 - - [04/Jul/2025 11:24:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 12:10:58 54.174.109.174 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-04 12:10:58 54.174.109.174 - - [04/Jul/2025 12:10:58] "GET / HTTP/1.1" 200 -
+2025-07-04 12:11:03 54.174.109.174 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-04 12:11:03 54.174.109.174 - - [04/Jul/2025 12:11:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 12:11:07 54.174.109.174 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-04 12:11:07 54.174.109.174 - - [04/Jul/2025 12:11:07] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-04 12:22:55 54.174.109.174 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-04 12:22:55 54.174.109.174 - - [04/Jul/2025 12:22:55] "GET / HTTP/1.1" 200 -
+2025-07-04 12:22:56 54.174.109.174 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-04 12:22:56 54.174.109.174 - - [04/Jul/2025 12:22:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 12:22:58 54.174.109.174 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-04 12:22:58 54.174.109.174 - - [04/Jul/2025 12:22:58] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-04 12:32:58 20.163.14.130 140.116.82.166 "GET /?" 200 "Mozilla/5.0 zgrab/0.x"
+2025-07-04 12:32:58 20.163.14.130 - - [04/Jul/2025 12:32:58] "GET / HTTP/1.1" 200 -
+2025-07-04 12:38:22 115.231.78.4 140.116.82.166:443 "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.2623.112 Safari/537.36"
+2025-07-04 12:38:22 115.231.78.4 - - [04/Jul/2025 12:38:22] "GET / HTTP/1.1" 200 -
+2025-07-04 12:38:23 115.231.78.4 140.116.82.166:443 "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-04 12:38:23 115.231.78.4 - - [04/Jul/2025 12:38:23] "GET / HTTP/1.1" 200 -
+2025-07-04 12:38:24 115.231.78.4 140.116.82.166:443 "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-04 12:38:24 115.231.78.4 - - [04/Jul/2025 12:38:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 12:38:25 115.231.78.4 140.116.82.166:443 "GET /robots.txt?" 404 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-04 12:38:25 115.231.78.4 - - [04/Jul/2025 12:38:25] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-07-04 12:57:46 20.229.51.198 nckuopen.duckdns.org "GET /?" 200 "curl/8.6.0"
+2025-07-04 12:57:46 20.229.51.198 - - [04/Jul/2025 12:57:46] "GET / HTTP/1.1" 200 -
+2025-07-04 13:12:10 107.21.139.140 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-07-04 13:12:10 107.21.139.140 - - [04/Jul/2025 13:12:10] "GET / HTTP/1.1" 200 -
+2025-07-04 13:19:46 45.144.212.129 nckuopen.duckdns.org "GET /.git/config?" 404 "Mozilla/5.0 (Linux; Android 4.4.2; LG-V410 Build/KOT49I.V41010d) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.103 Safari/537.36"
+2025-07-04 13:19:46 45.144.212.129 - - [04/Jul/2025 13:19:46] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+2025-07-04 13:29:14 20.65.194.166 140.116.82.166 "GET /developmentserver/metadatauploader?" 404 "Mozilla/5.0 zgrab/0.x"
+2025-07-04 13:29:14 20.65.194.166 - - [04/Jul/2025 13:29:14] "[33mGET /developmentserver/metadatauploader HTTP/1.1[0m" 404 -
+2025-07-04 13:34:11 23.27.145.60 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/120.0"
+2025-07-04 13:34:11 23.27.145.60 - - [04/Jul/2025 13:34:11] "GET / HTTP/1.1" 200 -
+2025-07-04 13:37:16 170.64.219.216 140.116.82.166 "GET /starter.bin?" 404 "Microsoft Edge/1.0"
+2025-07-04 13:37:16 170.64.219.216 - - [04/Jul/2025 13:37:16] "[33mGET /starter.bin HTTP/1.1[0m" 404 -
+2025-07-04 14:10:38 198.55.98.76 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0 (iPad; CPU OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12H321 Safari/600.1.4"
+2025-07-04 14:10:38 198.55.98.76 - - [04/Jul/2025 14:10:38] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-04 14:11:01 198.55.98.210 nckuopen.duckdns.org "GET /.git/config?" 404 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2; rv:10.0.1) Gecko/20100101 Firefox/10.0.1"
+2025-07-04 14:11:01 198.55.98.210 - - [04/Jul/2025 14:11:01] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+2025-07-04 14:28:46 77.90.153.170 nckuopen.duckdns.org "GET /.git/config?" 404 "Mozilla/5.0 (Linux; Android 5.0; SM-G900F Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/45.0.2454.95 Mobile Safari/537.36"
+2025-07-04 14:28:46 77.90.153.170 - - [04/Jul/2025 14:28:46] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+2025-07-04 14:38:24 223.139.37.239 nckuopen.duckdns.org "GET /apple-touch-icon-precomposed.png?" 404 "NetworkingExtension/8621.2.5.10.10 CFNetwork/3826.500.131 Darwin/24.5.0"
+2025-07-04 14:38:24 223.139.37.239 - - [04/Jul/2025 14:38:24] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+2025-07-04 14:38:24 223.139.37.239 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0"
+2025-07-04 14:38:24 223.139.37.239 - - [04/Jul/2025 14:38:24] "GET / HTTP/1.1" 200 -
+2025-07-04 14:38:24 223.139.37.239 nckuopen.duckdns.org "GET /favicon.ico?" 404 "NetworkingExtension/8621.2.5.10.10 CFNetwork/3826.500.131 Darwin/24.5.0"
+2025-07-04 14:38:24 223.139.37.239 - - [04/Jul/2025 14:38:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 14:38:25 223.139.37.239 nckuopen.duckdns.org "GET /apple-touch-icon.png?" 404 "NetworkingExtension/8621.2.5.10.10 CFNetwork/3826.500.131 Darwin/24.5.0"
+2025-07-04 14:38:25 223.139.37.239 - - [04/Jul/2025 14:38:25] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+2025-07-04 14:38:31 147.92.179.108 nckuopen.duckdns.org "GET /?" 200 "facebookexternalhit/1.1;line-poker/1.0"
+2025-07-04 14:38:31 147.92.179.108 - - [04/Jul/2025 14:38:31] "GET / HTTP/1.1" 200 -
+2025-07-04 14:38:32 147.92.179.107 nckuopen.duckdns.org "GET /?" 200 "facebookexternalhit/1.1;line-poker/1.0"
+2025-07-04 14:38:32 147.92.179.107 - - [04/Jul/2025 14:38:32] "GET / HTTP/1.1" 200 -
+2025-07-04 14:38:44 185.12.59.118 None "GET /?" 200 "None"
+2025-07-04 14:38:44 185.12.59.118 - - [04/Jul/2025 14:38:44] "GET / HTTP/1.1" 200 -
+2025-07-04 14:39:30 223.139.37.239 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:39:30 223.139.37.239 - - [04/Jul/2025 14:39:30] "GET / HTTP/1.1" 200 -
+2025-07-04 14:39:30 223.139.37.239 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:39:30 223.139.37.239 - - [04/Jul/2025 14:39:30] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-04 14:39:30 223.139.37.239 nckuopen.duckdns.org "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:39:30 223.139.37.239 - - [04/Jul/2025 14:39:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 14:45:05 45.82.78.254 140.116.82.166 "GET /favicon.ico?" 404 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36"
+2025-07-04 14:45:05 45.82.78.254 - - [04/Jul/2025 14:45:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 14:45:49 77.90.153.170 nckuopen.duckdns.org "GET /.env?" 404 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/71.0.3578.98 Chrome/71.0.3578.98 Safari/537.36"
+2025-07-04 14:45:49 77.90.153.170 - - [04/Jul/2025 14:45:49] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-04 14:51:39 140.116.82.166 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:51:39 140.116.82.166 - - [04/Jul/2025 14:51:39] "GET / HTTP/1.1" 200 -
+2025-07-04 14:51:39 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:51:39 140.116.82.166 - - [04/Jul/2025 14:51:39] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 14:52:01 140.116.82.166 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:52:01 140.116.82.166 - - [04/Jul/2025 14:52:01] "GET / HTTP/1.1" 200 -
+2025-07-04 14:52:01 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:52:01 140.116.82.166 - - [04/Jul/2025 14:52:01] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 14:52:01 140.116.82.166 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:52:01 140.116.82.166 - - [04/Jul/2025 14:52:01] "GET / HTTP/1.1" 200 -
+2025-07-04 14:52:01 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:52:01 140.116.82.166 - - [04/Jul/2025 14:52:01] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 14:52:02 140.116.82.166 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:52:02 140.116.82.166 - - [04/Jul/2025 14:52:02] "GET / HTTP/1.1" 200 -
+2025-07-04 14:52:02 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:52:02 140.116.82.166 - - [04/Jul/2025 14:52:02] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 14:52:12 140.116.82.166 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:52:12 140.116.82.166 - - [04/Jul/2025 14:52:12] "GET / HTTP/1.1" 200 -
+2025-07-04 14:52:12 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:52:12 140.116.82.166 - - [04/Jul/2025 14:52:12] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 14:52:18 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:52:18 140.116.82.166 - - [04/Jul/2025 14:52:18] "POST / HTTP/1.1" 200 -
+2025-07-04 14:52:19 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:52:19 140.116.82.166 - - [04/Jul/2025 14:52:19] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 14:52:32 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:52:32 140.116.82.166 - - [04/Jul/2025 14:52:32] "POST / HTTP/1.1" 200 -
+2025-07-04 14:52:32 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:52:32 140.116.82.166 - - [04/Jul/2025 14:52:32] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 14:54:36 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:54:36 140.116.82.166 - - [04/Jul/2025 14:54:36] "POST / HTTP/1.1" 200 -
+2025-07-04 14:54:36 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 14:54:36 140.116.82.166 - - [04/Jul/2025 14:54:36] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -

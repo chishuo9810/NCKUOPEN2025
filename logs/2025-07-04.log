@@ -1,0 +1,364 @@
+2025-07-04 15:10:51 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:443
+ * Running on https://140.116.82.166:443
+2025-07-04 15:10:51 [33mPress CTRL+C to quit[0m
+2025-07-04 15:10:56 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 15:10:56 140.116.82.166 - - [04/Jul/2025 15:10:56] "POST / HTTP/1.1" 200 -
+2025-07-04 15:10:56 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 15:10:56 140.116.82.166 - - [04/Jul/2025 15:10:56] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 15:10:56 140.116.82.166 nckuopen.duckdns.org "GET /static/favicon.png?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 15:10:56 140.116.82.166 - - [04/Jul/2025 15:10:56] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-04 15:11:26 140.116.82.161 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-04 15:11:26 140.116.82.161 - - [04/Jul/2025 15:11:26] "GET / HTTP/1.1" 200 -
+2025-07-04 15:11:27 140.116.82.161 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/FBIOS;FBAV/513.0.0.36.106;FBBV/753096693;FBDV/iPhone15,3;FBMD/iPhone;FBSN/iOS;FBSV/18.5;FBSS/3;FBCR/;FBID/phone;FBLC/zh_TW;FBOP/80]"
+2025-07-04 15:11:27 140.116.82.161 - - [04/Jul/2025 15:11:27] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-04 15:11:29 140.116.82.161 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 15:11:29 140.116.82.161 - - [04/Jul/2025 15:11:29] "GET / HTTP/1.1" 200 -
+2025-07-04 15:11:30 140.116.82.161 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 15:11:30 140.116.82.161 - - [04/Jul/2025 15:11:30] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-04 15:11:30 140.116.82.161 nckuopen.duckdns.org "GET /static/favicon.png?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 15:11:30 140.116.82.161 - - [04/Jul/2025 15:11:30] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-04 15:11:43 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 15:11:43 140.116.82.166 - - [04/Jul/2025 15:11:43] "POST / HTTP/1.1" 200 -
+2025-07-04 15:11:44 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 15:11:44 140.116.82.166 - - [04/Jul/2025 15:11:44] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 15:14:02 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 15:14:02 140.116.82.166 - - [04/Jul/2025 15:14:02] "POST / HTTP/1.1" 200 -
+2025-07-04 15:14:02 140.116.82.166 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 15:14:02 140.116.82.166 - - [04/Jul/2025 15:14:02] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 15:14:02 140.116.82.166 nckuopen.duckdns.org "GET /static/favicon.png?" 304 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 15:14:02 140.116.82.166 - - [04/Jul/2025 15:14:02] "[36mGET /static/favicon.png HTTP/1.1[0m" 304 -
+2025-07-04 15:14:35 140.116.82.161 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 15:14:35 140.116.82.161 - - [04/Jul/2025 15:14:35] "GET / HTTP/1.1" 200 -
+2025-07-04 15:14:35 140.116.82.161 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 304 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 15:14:35 140.116.82.161 - - [04/Jul/2025 15:14:35] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 15:14:35 140.116.82.161 nckuopen.duckdns.org "GET /static/favicon.png?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 15:14:35 140.116.82.161 - - [04/Jul/2025 15:14:35] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-04 15:19:33 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:443
+ * Running on https://140.116.82.166:443
+2025-07-04 15:19:33 [33mPress CTRL+C to quit[0m
+2025-07-04 15:19:39 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 15:19:39 140.116.82.166 - - [04/Jul/2025 15:19:39] "POST / HTTP/1.1" 200 -
+2025-07-04 15:19:39 140.116.82.166 - - [04/Jul/2025 15:19:39] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 15:19:40 140.116.82.166 - - [04/Jul/2025 15:19:40] "[36mGET /static/favicon.png HTTP/1.1[0m" 304 -
+2025-07-04 15:23:46 140.116.82.166 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 15:23:46 140.116.82.166 - - [04/Jul/2025 15:23:46] "GET / HTTP/1.1" 200 -
+2025-07-04 15:23:46 140.116.82.166 - - [04/Jul/2025 15:23:46] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 15:24:14 140.116.82.166 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-04 15:24:14 140.116.82.166 - - [04/Jul/2025 15:24:14] "POST / HTTP/1.1" 200 -
+2025-07-04 15:24:14 140.116.82.166 - - [04/Jul/2025 15:24:14] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 15:55:26 54.201.108.23 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Camino/2.2.1"
+2025-07-04 15:55:26 54.201.108.23 - - [04/Jul/2025 15:55:26] "GET / HTTP/1.1" 200 -
+2025-07-04 16:33:29 67.205.174.47 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0"
+2025-07-04 16:33:29 67.205.174.47 - - [04/Jul/2025 16:33:29] "GET / HTTP/1.1" 200 -
+2025-07-04 16:33:34 67.205.174.47 nckuopen.duckdns.org "GET /static/favicon.ico?" 404 "Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0"
+2025-07-04 16:33:34 67.205.174.47 - - [04/Jul/2025 16:33:34] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-07-04 16:42:12 140.116.82.161 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 16:42:12 140.116.82.161 - - [04/Jul/2025 16:42:12] "GET / HTTP/1.1" 200 -
+2025-07-04 16:42:12 140.116.82.161 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 16:42:12 140.116.82.161 - - [04/Jul/2025 16:42:12] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-04 16:42:12 140.116.82.161 nckuopen.duckdns.org "GET /static/favicon.png?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 16:42:12 140.116.82.161 - - [04/Jul/2025 16:42:12] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-04 17:02:01 196.251.88.60 140.116.82.166 "GET /_profiler/phpinfo?" 404 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.1 Safari/605.1.15"
+2025-07-04 17:02:01 196.251.88.60 - - [04/Jul/2025 17:02:01] "[33mGET /_profiler/phpinfo HTTP/1.1[0m" 404 -
+2025-07-04 17:20:44 196.251.84.146 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0 (Linux; Android 6.0.1; SM-G900F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.143 Mobile Safari/537.36"
+2025-07-04 17:20:44 196.251.84.146 - - [04/Jul/2025 17:20:44] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-04 17:40:13 104.210.140.133 nckuopen.duckdns.org "GET /robots.txt?" 404 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36; compatible; OAI-SearchBot/1.0; +https://openai.com/searchbot"
+2025-07-04 17:40:13 104.210.140.133 - - [04/Jul/2025 17:40:13] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-07-04 17:50:48 139.59.37.187 140.116.82.166 "GET /aaa9?" 404 "Mozilla/5.0 zgrab/0.x"
+2025-07-04 17:50:48 139.59.37.187 - - [04/Jul/2025 17:50:48] "[33mGET /aaa9 HTTP/1.1[0m" 404 -
+2025-07-04 17:50:56 139.59.37.187 140.116.82.166 "GET /aab8?" 404 "Mozilla/5.0 zgrab/0.x"
+2025-07-04 17:50:56 139.59.37.187 - - [04/Jul/2025 17:50:56] "[33mGET /aab8 HTTP/1.1[0m" 404 -
+2025-07-04 17:51:02 139.59.37.187 140.116.82.166 "GET /?" 200 "Mozilla/5.0 zgrab/0.x"
+2025-07-04 17:51:02 139.59.37.187 - - [04/Jul/2025 17:51:02] "GET / HTTP/1.1" 200 -
+2025-07-04 19:20:32 196.251.70.87 140.116.82.166 "GET /.git/config?" 404 "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.101 Safari/537.36 OPR/40.0.2308.62"
+2025-07-04 19:20:32 196.251.70.87 - - [04/Jul/2025 19:20:32] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+2025-07-04 20:47:45 195.178.110.253 nckuopen.duckdns.org "GET /.git/config?" 404 "Mozilla/5.0 (Debian; Linux i686; rv:123.0) Gecko/20100101 Firefox/123.0"
+2025-07-04 20:47:45 195.178.110.253 - - [04/Jul/2025 20:47:45] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+2025-07-04 21:03:49 196.251.84.146 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36"
+2025-07-04 21:03:49 196.251.84.146 - - [04/Jul/2025 21:03:49] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-04 21:22:03 109.74.197.213 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:8.0) Gecko/20100101 Firefox/8.0"
+2025-07-04 21:22:03 109.74.197.213 - - [04/Jul/2025 21:22:03] "GET / HTTP/1.1" 200 -
+2025-07-04 21:47:51 134.199.162.3 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0; Keydrop.io/1.0(onlyscans.com/about);"
+2025-07-04 21:47:51 134.199.162.3 - - [04/Jul/2025 21:47:51] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-04 21:47:51 134.199.162.3 140.116.82.166 "GET /.git/config?" 404 "Mozilla/5.0; Keydrop.io/1.0(onlyscans.com/about);"
+2025-07-04 21:47:51 134.199.162.3 - - [04/Jul/2025 21:47:51] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+2025-07-04 22:25:17 223.138.51.15 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 22:25:17 223.138.51.15 - - [04/Jul/2025 22:25:17] "GET / HTTP/1.1" 200 -
+2025-07-04 22:25:17 223.138.51.15 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 22:25:17 223.138.51.15 - - [04/Jul/2025 22:25:17] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-04 22:25:17 223.138.51.15 nckuopen.duckdns.org "GET /static/favicon.png?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 22:25:17 223.138.51.15 - - [04/Jul/2025 22:25:17] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-04 22:25:23 223.138.51.15 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 22:25:23 223.138.51.15 - - [04/Jul/2025 22:25:23] "POST / HTTP/1.1" 200 -
+2025-07-04 22:25:24 223.138.51.15 - - [04/Jul/2025 22:25:24] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 23:03:46 223.138.51.15 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 23:03:46 223.138.51.15 - - [04/Jul/2025 23:03:46] "POST / HTTP/1.1" 200 -
+2025-07-04 23:03:46 223.138.51.15 - - [04/Jul/2025 23:03:46] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 23:03:47 223.138.51.15 nckuopen.duckdns.org "GET /static/favicon.png?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 23:03:47 223.138.51.15 - - [04/Jul/2025 23:03:47] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-04 23:07:07 223.138.51.15 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 23:07:07 223.138.51.15 - - [04/Jul/2025 23:07:07] "POST / HTTP/1.1" 200 -
+2025-07-04 23:07:07 223.138.51.15 - - [04/Jul/2025 23:07:07] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 23:07:08 223.138.51.15 nckuopen.duckdns.org "GET /static/favicon.png?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 23:07:08 223.138.51.15 - - [04/Jul/2025 23:07:08] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-04 23:25:36 223.138.51.15 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 23:25:36 223.138.51.15 - - [04/Jul/2025 23:25:36] "POST / HTTP/1.1" 200 -
+2025-07-04 23:25:37 223.138.51.15 - - [04/Jul/2025 23:25:37] "[36mGET /static/images/Ncku2.jpg HTTP/1.1[0m" 304 -
+2025-07-04 23:25:37 223.138.51.15 nckuopen.duckdns.org "GET /static/favicon.png?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-04 23:25:37 223.138.51.15 - - [04/Jul/2025 23:25:37] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-04 23:57:43 196.251.88.60 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.8.22"
+2025-07-04 23:57:43 196.251.88.60 - - [04/Jul/2025 23:57:43] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-05 00:02:03 115.231.78.4 140.116.82.166:443 "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.2623.112 Safari/537.36"
+2025-07-05 00:02:03 115.231.78.4 - - [05/Jul/2025 00:02:03] "GET / HTTP/1.1" 200 -
+2025-07-05 00:02:06 115.231.78.4 140.116.82.166:443 "GET /static/favicon.ico?" 404 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-05 00:02:06 115.231.78.4 - - [05/Jul/2025 00:02:06] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-07-05 00:02:09 115.231.78.4 140.116.82.166:443 "GET /static/favicon.png?" 200 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-05 00:02:09 115.231.78.4 - - [05/Jul/2025 00:02:09] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-05 00:02:33 115.231.78.4 140.116.82.166:443 "GET /static/apple-touch-icon.png?" 404 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-05 00:02:33 115.231.78.4 - - [05/Jul/2025 00:02:33] "[33mGET /static/apple-touch-icon.png HTTP/1.1[0m" 404 -
+2025-07-05 00:02:35 115.231.78.4 140.116.82.166:443 "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-05 00:02:35 115.231.78.4 - - [05/Jul/2025 00:02:35] "GET / HTTP/1.1" 200 -
+2025-07-05 00:02:35 115.231.78.4 140.116.82.166:443 "GET /robots.txt?" 404 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-05 00:02:35 115.231.78.4 - - [05/Jul/2025 00:02:35] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-07-05 00:02:36 115.231.78.4 140.116.82.166:443 "GET /static/favicon.ico?" 404 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-05 00:02:36 115.231.78.4 - - [05/Jul/2025 00:02:36] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-07-05 00:02:37 115.231.78.4 140.116.82.166:443 "GET /static/favicon.png?" 200 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-05 00:02:37 115.231.78.4 - - [05/Jul/2025 00:02:37] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-05 00:21:43 194.163.152.77 nckuopen.duckdns.org "GET /?" 200 "grub-client-1.5.3; (grub-client-1.5.3; Crawl your own stuff with http://grub.org)"
+2025-07-05 00:21:43 194.163.152.77 - - [05/Jul/2025 00:21:43] "GET / HTTP/1.1" 200 -
+2025-07-05 00:41:04 198.55.98.76 140.116.82.166 "GET /.git/config?" 404 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3876.0 Safari/537.36"
+2025-07-05 00:41:04 198.55.98.76 - - [05/Jul/2025 00:41:04] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+2025-07-05 00:56:37 36.237.147.230 nckuopen.duckdns.org "POST /?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-05 00:56:37 36.237.147.230 - - [05/Jul/2025 00:56:37] "POST / HTTP/1.1" 200 -
+2025-07-05 00:56:37 36.237.147.230 nckuopen.duckdns.org "GET /static/images/Ncku2.jpg?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-05 00:56:37 36.237.147.230 - - [05/Jul/2025 00:56:37] "GET /static/images/Ncku2.jpg HTTP/1.1" 200 -
+2025-07-05 00:56:37 36.237.147.230 nckuopen.duckdns.org "GET /static/favicon.png?" 200 "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+2025-07-05 00:56:37 36.237.147.230 - - [05/Jul/2025 00:56:37] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-05 01:43:35 23.27.145.43 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/120.0"
+2025-07-05 01:43:35 23.27.145.43 - - [05/Jul/2025 01:43:35] "GET / HTTP/1.1" 200 -
+2025-07-05 02:22:01 196.251.84.146 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0 (Linux; Android 9; ONEPLUS A3010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36"
+2025-07-05 02:22:01 196.251.84.146 - - [05/Jul/2025 02:22:01] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-05 03:06:58 196.251.70.87 140.116.82.166 "GET /.git/index?" 404 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36"
+2025-07-05 03:06:58 196.251.70.87 - - [05/Jul/2025 03:06:58] "[33mGET /.git/index HTTP/1.1[0m" 404 -
+2025-07-05 03:27:19 78.88.188.94 140.116.82.166 "GET /?" 200 "None"
+2025-07-05 03:27:19 78.88.188.94 - - [05/Jul/2025 03:27:19] "GET / HTTP/1.0" 200 -
+2025-07-05 03:29:18 35.205.208.255 140.116.82.166 "GET /?" 200 "python-requests/2.32.4"
+2025-07-05 03:29:18 35.205.208.255 - - [05/Jul/2025 03:29:18] "GET / HTTP/1.1" 200 -
+2025-07-05 04:59:58 139.162.119.94 None "GET /?" 200 "None"
+2025-07-05 04:59:58 139.162.119.94 - - [05/Jul/2025 04:59:58] "GET / HTTP/1.0" 200 -
+2025-07-05 04:59:58 139.162.119.94 None "OPTIONS /?" 200 "None"
+2025-07-05 04:59:58 139.162.119.94 - - [05/Jul/2025 04:59:58] "OPTIONS / HTTP/1.0" 200 -
+2025-07-05 04:59:58 139.162.119.94 None "GET /nice ports,/Trinity.txt.bak?" 404 "None"
+2025-07-05 04:59:58 139.162.119.94 - - [05/Jul/2025 04:59:58] "[33mGET /nice%20ports,/Trinity.txt.bak HTTP/1.0[0m" 404 -
+2025-07-05 05:00:03 139.162.119.94 - - [05/Jul/2025 05:00:03] code 400, message Bad request syntax ('\x00\x00\x07\x00\x08\x00\x03\x00\x04\x00\x05\x00\x06')
+2025-07-05 05:00:03 139.162.119.94 - - [05/Jul/2025 05:00:03] "[31m[1m\x00\x00\x07\x00\x08\x00\x03\x00\x04\x00\x05\x00\x06[0m" 400 -
+2025-07-05 05:00:04 139.162.119.94 - - [05/Jul/2025 05:00:04] code 400, message Bad request version ('RTSP/1.0')
+2025-07-05 05:00:04 139.162.119.94 - - [05/Jul/2025 05:00:04] "[31m[1mOPTIONS / RTSP/1.0[0m" 400 -
+2025-07-05 05:00:09 139.162.119.94 - - [05/Jul/2025 05:00:09] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+2025-07-05 05:00:09 139.162.119.94 - - [05/Jul/2025 05:00:09] "[31m[1m\x80\x00\x00(r\xfe\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86\xa0\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-07-05 05:00:14 139.162.119.94 - - [05/Jul/2025 05:00:14] code 400, message Bad HTTP/0.9 request type ('\x00')
+2025-07-05 05:00:14 139.162.119.94 - - [05/Jul/2025 05:00:14] "[31m[1m\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03[0m" 400 -
+2025-07-05 05:00:14 139.162.119.94 - - [05/Jul/2025 05:00:14] code 400, message Bad request syntax ('HELP')
+2025-07-05 05:00:14 139.162.119.94 - - [05/Jul/2025 05:00:14] "[31m[1mHELP[0m" 400 -
+2025-07-05 05:00:14 139.162.119.94 - - [05/Jul/2025 05:00:14] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G¡Ñ¡Ò\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00')
+2025-07-05 05:00:14 139.162.119.94 - - [05/Jul/2025 05:00:14] "[31m[1m\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G¡Ñ¡Ò\xba,\xee\xea\xb2`~\xf3\x00\xfd\x82{\xb9\xd5\x96\xc8w\x9b\xe6\xc4\xdb<=\xdbo\xef\x10n\x00\x00(\x00\x16\x00\x13\x00[0m" 400 -
+2025-07-05 05:00:14 139.162.119.94 - - [05/Jul/2025 05:00:14] code 400, message Bad request version ('\x00/\x00')
+2025-07-05 05:00:14 139.162.119.94 - - [05/Jul/2025 05:00:14] "[31m[1m\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c¡±\xe4random1random2random3random4\x00\x00\x0c\x00/\x00[0m" 400 -
+2025-07-05 05:00:15 139.162.119.94 - - [05/Jul/2025 05:00:15] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k\xa1\x03\x02\x01\x05¢F\x03\x02\x01')
+2025-07-05 05:00:15 139.162.119.94 - - [05/Jul/2025 05:00:15] "[31m[1m\x00\x00\x00qj\x81n0\x81k\xa1\x03\x02\x01\x05¢F\x03\x02\x01[0m" 400 -
+2025-07-05 05:00:20 139.162.119.94 - - [05/Jul/2025 05:00:20] code 400, message Bad request version ('0.12\x00')
+2025-07-05 05:00:20 139.162.119.94 - - [05/Jul/2025 05:00:20] "[31m[1m\x00\x00\x00\xa4\xffSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00[0m" 400 -
+2025-07-05 05:00:25 139.162.119.94 - - [05/Jul/2025 05:00:25] code 400, message Bad HTTP/0.9 request type ('l\x00')
+2025-07-05 05:00:25 139.162.119.94 - - [05/Jul/2025 05:00:25] "[31m[1ml\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" 400 -
+2025-07-05 05:00:25 139.162.119.94 - - [05/Jul/2025 05:00:25] code 400, message Bad request version ('SIP/2.0')
+2025-07-05 05:00:25 139.162.119.94 - - [05/Jul/2025 05:00:25] "[31m[1mOPTIONS sip:nm SIP/2.0[0m" 400 -
+2025-07-05 05:00:30 139.162.119.94 - - [05/Jul/2025 05:00:30] code 400, message Bad HTTP/0.9 request type ('AMQP\x00\x00')
+2025-07-05 05:00:30 139.162.119.94 - - [05/Jul/2025 05:00:30] "[31m[1mAMQP\x00\x00\x09\x01[0m" 400 -
+2025-07-05 05:00:30 139.162.119.94 None "GET /devicedesc.xml?" 404 "None"
+2025-07-05 05:00:30 139.162.119.94 - - [05/Jul/2025 05:00:30] "[33mGET /devicedesc.xml HTTP/1.1[0m" 404 -
+2025-07-05 05:00:30 139.162.119.94 cial2.csie.ncku.edu.tw "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML"
+2025-07-05 05:00:30 139.162.119.94 - - [05/Jul/2025 05:00:30] "GET / HTTP/1.1" 200 -
+2025-07-05 05:00:31 139.162.119.94 cial2.csie.ncku.edu.tw "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML"
+2025-07-05 05:00:31 139.162.119.94 - - [05/Jul/2025 05:00:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-05 05:00:51 139.162.119.94 cial2.csie.ncku.edu.tw "GET /?" 200 "None"
+2025-07-05 05:00:51 139.162.119.94 - - [05/Jul/2025 05:00:51] "GET / HTTP/1.1" 200 -
+2025-07-05 06:16:08 170.39.218.2  "GET /?" 200 "None"
+2025-07-05 06:16:08 170.39.218.2 - - [05/Jul/2025 06:16:08] "GET / HTTP/1.1" 200 -
+2025-07-05 06:16:14 170.39.218.2 140.116.82.166 "GET /?" 200 "l9tcpid/v1.1.0"
+2025-07-05 06:16:14 170.39.218.2 - - [05/Jul/2025 06:16:14] "GET / HTTP/1.1" 200 -
+2025-07-05 06:16:15 170.39.218.2 140.116.82.166 "GET /.git/config?" 404 "l9explore/1.2.2"
+2025-07-05 06:16:15 170.39.218.2 - - [05/Jul/2025 06:16:15] "[33mGET /.git/config HTTP/1.1[0m" 404 -
+2025-07-05 06:58:42 190.129.114.240 140.116.82.166:443 "POST /cgi-bin/../../../../../../../../../../bin/sh?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:58:42 190.129.114.240 - - [05/Jul/2025 06:58:42] "[33mPOST /cgi-bin/../../../../../../../../../../bin/sh HTTP/1.1[0m" 404 -
+2025-07-05 06:58:44 190.129.114.240 140.116.82.166:443 "POST /cgi-bin/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/bin/sh?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:58:44 190.129.114.240 - - [05/Jul/2025 06:58:44] "[33mPOST /cgi-bin/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/bin/sh HTTP/1.1[0m" 404 -
+2025-07-05 06:58:46 190.129.114.240 140.116.82.166:443 "POST /hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:58:46 190.129.114.240 - - [05/Jul/2025 06:58:46] "[33mPOST /hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input HTTP/1.1[0m" 404 -
+2025-07-05 06:58:48 190.129.114.240 140.116.82.166:443 "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:58:48 190.129.114.240 - - [05/Jul/2025 06:58:48] "[33mGET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:58:50 190.129.114.240 140.116.82.166:443 "GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:58:50 190.129.114.240 - - [05/Jul/2025 06:58:50] "[33mGET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:58:52 190.129.114.240 140.116.82.166:443 "GET /vendor/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:58:52 190.129.114.240 - - [05/Jul/2025 06:58:52] "[33mGET /vendor/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:58:53 190.129.114.240 140.116.82.166:443 "GET /vendor/phpunit/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:58:53 190.129.114.240 - - [05/Jul/2025 06:58:53] "[33mGET /vendor/phpunit/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:58:55 190.129.114.240 140.116.82.166:443 "GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:58:55 190.129.114.240 - - [05/Jul/2025 06:58:55] "[33mGET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:58:57 190.129.114.240 140.116.82.166:443 "GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:58:57 190.129.114.240 - - [05/Jul/2025 06:58:57] "[33mGET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:58:59 190.129.114.240 140.116.82.166:443 "GET /phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:58:59 190.129.114.240 - - [05/Jul/2025 06:58:59] "[33mGET /phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:01 190.129.114.240 140.116.82.166:443 "GET /phpunit/phpunit/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:01 190.129.114.240 - - [05/Jul/2025 06:59:01] "[33mGET /phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:03 190.129.114.240 140.116.82.166:443 "GET /phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:03 190.129.114.240 - - [05/Jul/2025 06:59:03] "[33mGET /phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:05 190.129.114.240 140.116.82.166:443 "GET /phpunit/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:05 190.129.114.240 - - [05/Jul/2025 06:59:05] "[33mGET /phpunit/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:07 190.129.114.240 140.116.82.166:443 "GET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:07 190.129.114.240 - - [05/Jul/2025 06:59:07] "[33mGET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:09 190.129.114.240 140.116.82.166:443 "GET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:09 190.129.114.240 - - [05/Jul/2025 06:59:09] "[33mGET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:11 190.129.114.240 140.116.82.166:443 "GET /lib/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:11 190.129.114.240 - - [05/Jul/2025 06:59:11] "[33mGET /lib/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:12 190.129.114.240 140.116.82.166:443 "GET /lib/phpunit/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:12 190.129.114.240 - - [05/Jul/2025 06:59:12] "[33mGET /lib/phpunit/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:14 190.129.114.240 140.116.82.166:443 "GET /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:14 190.129.114.240 - - [05/Jul/2025 06:59:14] "[33mGET /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:16 190.129.114.240 140.116.82.166:443 "GET /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:16 190.129.114.240 - - [05/Jul/2025 06:59:16] "[33mGET /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:18 190.129.114.240 140.116.82.166:443 "GET /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:18 190.129.114.240 - - [05/Jul/2025 06:59:18] "[33mGET /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:20 190.129.114.240 140.116.82.166:443 "GET /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:20 190.129.114.240 - - [05/Jul/2025 06:59:20] "[33mGET /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:22 190.129.114.240 140.116.82.166:443 "GET /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:22 190.129.114.240 - - [05/Jul/2025 06:59:22] "[33mGET /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:24 190.129.114.240 140.116.82.166:443 "GET /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:24 190.129.114.240 - - [05/Jul/2025 06:59:24] "[33mGET /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:26 190.129.114.240 140.116.82.166:443 "GET /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:26 190.129.114.240 - - [05/Jul/2025 06:59:26] "[33mGET /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:27 190.129.114.240 140.116.82.166:443 "GET /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:27 190.129.114.240 - - [05/Jul/2025 06:59:27] "[33mGET /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:29 190.129.114.240 140.116.82.166:443 "GET /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:29 190.129.114.240 - - [05/Jul/2025 06:59:29] "[33mGET /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:31 190.129.114.240 140.116.82.166:443 "GET /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:31 190.129.114.240 - - [05/Jul/2025 06:59:31] "[33mGET /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:33 190.129.114.240 140.116.82.166:443 "GET /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:33 190.129.114.240 - - [05/Jul/2025 06:59:33] "[33mGET /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:34 190.129.114.240 140.116.82.166:443 "GET /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:34 190.129.114.240 - - [05/Jul/2025 06:59:34] "[33mGET /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:36 190.129.114.240 140.116.82.166:443 "GET /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:36 190.129.114.240 - - [05/Jul/2025 06:59:36] "[33mGET /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:38 190.129.114.240 140.116.82.166:443 "GET /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:38 190.129.114.240 - - [05/Jul/2025 06:59:38] "[33mGET /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:40 190.129.114.240 140.116.82.166:443 "GET /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:40 190.129.114.240 - - [05/Jul/2025 06:59:40] "[33mGET /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:42 190.129.114.240 140.116.82.166:443 "GET /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:42 190.129.114.240 - - [05/Jul/2025 06:59:42] "[33mGET /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:43 190.129.114.240 140.116.82.166:443 "GET /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:43 190.129.114.240 - - [05/Jul/2025 06:59:43] "[33mGET /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:45 190.129.114.240 140.116.82.166:443 "GET /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:45 190.129.114.240 - - [05/Jul/2025 06:59:45] "[33mGET /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:47 190.129.114.240 140.116.82.166:443 "GET /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:47 190.129.114.240 - - [05/Jul/2025 06:59:47] "[33mGET /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:49 190.129.114.240 140.116.82.166:443 "GET /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:49 190.129.114.240 - - [05/Jul/2025 06:59:49] "[33mGET /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:51 190.129.114.240 140.116.82.166:443 "GET /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:51 190.129.114.240 - - [05/Jul/2025 06:59:51] "[33mGET /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:53 190.129.114.240 140.116.82.166:443 "GET /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:53 190.129.114.240 - - [05/Jul/2025 06:59:53] "[33mGET /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:55 190.129.114.240 140.116.82.166:443 "GET /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php?" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:55 190.129.114.240 - - [05/Jul/2025 06:59:55] "[33mGET /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1[0m" 404 -
+2025-07-05 06:59:56 190.129.114.240 140.116.82.166:443 "GET /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:56 190.129.114.240 - - [05/Jul/2025 06:59:56] "[33mGET /index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1[0m" 404 -
+2025-07-05 06:59:58 190.129.114.240 140.116.82.166:443 "GET /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello" 404 "Custom-AsyncHttpClient"
+2025-07-05 06:59:58 190.129.114.240 - - [05/Jul/2025 06:59:58] "[33mGET /public/index.php?s=/index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1[0m" 404 -
+2025-07-05 07:00:00 190.129.114.240 140.116.82.166:443 "GET /index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php" 404 "Custom-AsyncHttpClient"
+2025-07-05 07:00:00 190.129.114.240 - - [05/Jul/2025 07:00:00] "[33mGET /index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php HTTP/1.1[0m" 404 -
+2025-07-05 07:00:02 190.129.114.240 140.116.82.166:443 "GET /index.php?lang=../../../../../../../../tmp/index1" 404 "Custom-AsyncHttpClient"
+2025-07-05 07:00:02 190.129.114.240 - - [05/Jul/2025 07:00:02] "[33mGET /index.php?lang=../../../../../../../../tmp/index1 HTTP/1.1[0m" 404 -
+2025-07-05 07:00:04 190.129.114.240 140.116.82.166:443 "GET /containers/json?" 404 "Custom-AsyncHttpClient"
+2025-07-05 07:00:04 190.129.114.240 - - [05/Jul/2025 07:00:04] "[33mGET /containers/json HTTP/1.1[0m" 404 -
+2025-07-05 07:15:54 193.24.123.69 None "GET /?" 200 "None"
+2025-07-05 07:15:54 193.24.123.69 - - [05/Jul/2025 07:15:54] "GET / HTTP/1.1" 200 -
+2025-07-05 07:49:00 20.65.193.168 140.116.82.166 "GET /owa/auth/logon.aspx?" 404 "Mozilla/5.0 zgrab/0.x"
+2025-07-05 07:49:00 20.65.193.168 - - [05/Jul/2025 07:49:00] "[33mGET /owa/auth/logon.aspx HTTP/1.1[0m" 404 -
+2025-07-05 08:29:46 35.203.210.54 140.116.82.166:443 "GET /?" 200 "Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com"
+2025-07-05 08:29:46 35.203.210.54 - - [05/Jul/2025 08:29:46] "GET / HTTP/1.1" 200 -
+2025-07-05 09:13:23 161.35.113.13 cial2.csie.ncku.edu.tw "GET /?" 200 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-05 09:13:23 161.35.113.13 - - [05/Jul/2025 09:13:23] "GET / HTTP/1.1" 200 -
+2025-07-05 09:13:28 161.35.113.13 cial2.csie.ncku.edu.tw "GET /static/favicon.ico?" 404 "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+2025-07-05 09:13:28 161.35.113.13 - - [05/Jul/2025 09:13:28] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-07-05 09:14:27 198.55.98.76 140.116.82.166 "GET /.git/index?" 404 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/534.55.3 (KHTML, like Gecko) Version/5.1.3 Safari/534.53.10"
+2025-07-05 09:14:27 198.55.98.76 - - [05/Jul/2025 09:14:27] "[33mGET /.git/index HTTP/1.1[0m" 404 -
+2025-07-05 11:03:17 20.65.193.152 140.116.82.166 "GET /actuator/health?" 404 "Mozilla/5.0 zgrab/0.x"
+2025-07-05 11:03:17 20.65.193.152 - - [05/Jul/2025 11:03:17] "[33mGET /actuator/health HTTP/1.1[0m" 404 -
+2025-07-05 11:15:51 3.143.33.63 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36"
+2025-07-05 11:15:51 3.143.33.63 - - [05/Jul/2025 11:15:51] "GET / HTTP/1.1" 200 -
+2025-07-05 11:34:18 147.92.179.116 nckuopen.duckdns.org "GET /?" 200 "facebookexternalhit/1.1;line-poker/1.0"
+2025-07-05 11:34:18 147.92.179.116 - - [05/Jul/2025 11:34:18] "GET / HTTP/1.1" 200 -
+2025-07-05 12:10:26 54.174.140.70 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-05 12:10:26 54.174.140.70 - - [05/Jul/2025 12:10:26] "GET / HTTP/1.1" 200 -
+2025-07-05 12:10:27 54.174.140.70 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-05 12:10:27 54.174.140.70 - - [05/Jul/2025 12:10:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-05 12:10:28 54.174.140.70 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-05 12:10:28 54.174.140.70 - - [05/Jul/2025 12:10:28] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-05 12:10:29 54.174.140.70 nckuopen.duckdns.org "GET /static/favicon.png?" 200 "okhttp/4.9.2"
+2025-07-05 12:10:29 54.174.140.70 - - [05/Jul/2025 12:10:29] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-05 12:21:24 196.251.70.87 140.116.82.166 "GET /.env?" 404 "Mozilla/5.0 (Linux; Android 5.1; C6740N Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.111 Mobile Safari/537.36"
+2025-07-05 12:21:24 196.251.70.87 - - [05/Jul/2025 12:21:24] "[33mGET /.env HTTP/1.1[0m" 404 -
+2025-07-05 12:23:43 115.231.78.4 140.116.82.166:443 "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.2623.112 Safari/537.36"
+2025-07-05 12:23:43 115.231.78.4 - - [05/Jul/2025 12:23:43] "GET / HTTP/1.1" 200 -
+2025-07-05 12:23:45 54.164.157.105 nckuopen.duckdns.org "GET /?" 200 "okhttp/4.9.2"
+2025-07-05 12:23:45 54.164.157.105 - - [05/Jul/2025 12:23:45] "GET / HTTP/1.1" 200 -
+2025-07-05 12:23:45 115.231.78.4 140.116.82.166:443 "GET /static/favicon.ico?" 404 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-05 12:23:45 115.231.78.4 - - [05/Jul/2025 12:23:45] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-07-05 12:23:46 54.164.157.105 nckuopen.duckdns.org "GET /favicon.ico?" 404 "okhttp/4.9.2"
+2025-07-05 12:23:46 54.164.157.105 - - [05/Jul/2025 12:23:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-05 12:23:46 115.231.78.4 140.116.82.166:443 "GET /static/favicon.png?" 200 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-05 12:23:46 115.231.78.4 - - [05/Jul/2025 12:23:46] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-05 12:23:47 54.164.157.105 nckuopen.duckdns.org "GET /favicon.png?" 404 "okhttp/4.9.2"
+2025-07-05 12:23:47 54.164.157.105 - - [05/Jul/2025 12:23:47] "[33mGET /favicon.png HTTP/1.1[0m" 404 -
+2025-07-05 12:23:48 54.164.157.105 nckuopen.duckdns.org "GET /static/favicon.png?" 200 "okhttp/4.9.2"
+2025-07-05 12:23:48 54.164.157.105 - - [05/Jul/2025 12:23:48] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-05 12:23:54 115.231.78.4 140.116.82.166:443 "GET /robots.txt?" 404 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE"
+2025-07-05 12:23:54 115.231.78.4 - - [05/Jul/2025 12:23:54] "[33mGET /robots.txt HTTP/1.1[0m" 404 -
+2025-07-05 12:39:21 147.92.179.110 nckuopen.duckdns.org "GET /?" 200 "facebookexternalhit/1.1;line-poker/1.0"
+2025-07-05 12:39:21 147.92.179.110 - - [05/Jul/2025 12:39:21] "GET / HTTP/1.1" 200 -
+2025-07-05 13:07:22 13.221.114.27 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-07-05 13:07:22 13.221.114.27 - - [05/Jul/2025 13:07:22] "GET / HTTP/1.1" 200 -
+2025-07-05 13:12:41 20.163.15.119 140.116.82.166 "GET /version?" 404 "Mozilla/5.0 zgrab/0.x"
+2025-07-05 13:12:41 20.163.15.119 - - [05/Jul/2025 13:12:41] "[33mGET /version HTTP/1.1[0m" 404 -
+2025-07-05 13:17:21 185.247.137.133 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)"
+2025-07-05 13:17:21 185.247.137.133 - - [05/Jul/2025 13:17:21] "GET / HTTP/1.1" 200 -
+2025-07-05 13:17:28 185.247.137.174 nckuopen.duckdns.org:443 "GET /static/favicon.png?" 200 "Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)"
+2025-07-05 13:17:28 185.247.137.174 - - [05/Jul/2025 13:17:28] "GET /static/favicon.png HTTP/1.1" 200 -
+2025-07-05 13:45:20 185.12.59.118 None "GET /?" 200 "None"
+2025-07-05 13:45:20 185.12.59.118 - - [05/Jul/2025 13:45:20] "GET / HTTP/1.1" 200 -
+2025-07-05 13:52:18 149.57.180.176 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/120.0"
+2025-07-05 13:52:18 149.57.180.176 - - [05/Jul/2025 13:52:18] "GET / HTTP/1.1" 200 -
+2025-07-05 14:47:28 152.32.235.85 None "GET /?" 200 "NTRIP GNSSInternetRadio"
+2025-07-05 14:47:28 152.32.235.85 - - [05/Jul/2025 14:47:28] "GET / HTTP/1.1" 200 -
+2025-07-05 14:47:30 152.32.235.85 140.116.82.166:443 "GET /?" 200 "None"
+2025-07-05 14:47:30 152.32.235.85 - - [05/Jul/2025 14:47:30] "GET / HTTP/1.1" 200 -
+2025-07-05 14:47:35 106.75.136.216 140.116.82.166 "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
+2025-07-05 14:47:35 106.75.136.216 - - [05/Jul/2025 14:47:35] "GET / HTTP/1.1" 200 -
+2025-07-05 14:47:37 106.75.136.216 140.116.82.166 "GET /static/favicon.ico?" 404 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
+2025-07-05 14:47:37 106.75.136.216 - - [05/Jul/2025 14:47:37] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-07-05 14:47:38 106.75.136.216 140.116.82.166 "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
+2025-07-05 14:47:38 106.75.136.216 - - [05/Jul/2025 14:47:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-05 14:47:47 106.75.143.21 nckuopen.duckdns.org "GET /?" 200 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
+2025-07-05 14:47:47 106.75.143.21 - - [05/Jul/2025 14:47:47] "GET / HTTP/1.1" 200 -
+2025-07-05 14:47:50 106.75.143.21 nckuopen.duckdns.org "GET /static/favicon.ico?" 404 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
+2025-07-05 14:47:50 106.75.143.21 - - [05/Jul/2025 14:47:50] "[33mGET /static/favicon.ico HTTP/1.1[0m" 404 -
+2025-07-05 14:47:51 106.75.143.21 nckuopen.duckdns.org "GET /favicon.ico?" 404 "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36"
+2025-07-05 14:47:51 106.75.143.21 - - [05/Jul/2025 14:47:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-05 16:57:27 103.203.59.1 140.116.82.166 "GET /?" 200 "HTTP Banner Detection (https://security.ipip.net)"
+2025-07-05 16:57:27 103.203.59.1 - - [05/Jul/2025 16:57:27] "GET / HTTP/1.1" 200 -
+2025-07-05 17:09:33 20.65.194.129 140.116.82.166 "GET /developmentserver/metadatauploader?" 404 "Mozilla/5.0 zgrab/0.x"
+2025-07-05 17:09:33 20.65.194.129 - - [05/Jul/2025 17:09:33] "[33mGET /developmentserver/metadatauploader HTTP/1.1[0m" 404 -
+2025-07-05 17:43:44 89.42.231.140 140.116.82.166:443 "GET /cgi-bin/luci/;stok=/locale?" 404 "None"
+2025-07-05 17:43:44 89.42.231.140 - - [05/Jul/2025 17:43:44] "[33mGET /cgi-bin/luci/;stok=/locale HTTP/1.1[0m" 404 -
